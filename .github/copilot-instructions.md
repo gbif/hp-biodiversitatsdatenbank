@@ -9,8 +9,8 @@
 
 This is a Jekyll-based static site generator project that uses a remote theme specifically designed for GBIF (Global Biodiversity Information Facility) hosted portals. The site integrates biodiversity data widgets that connect to GBIF.org APIs and displays occurrence records, datasets, collections, institutions, and literature.
 
-**Live Site:** https://template_site.hp.gbif-staging.org/  
-**CI System:** Jenkins at https://builds.gbif.org/job/hp-template_site/
+**Live Site:** https://biodiversitatsdatenbank.hp.gbif-staging.org/  
+**CI System:** Jenkins at https://builds.gbif.org/job/hp-biodiversitatsdatenbank/
 
 ## Critical Build Information
 
