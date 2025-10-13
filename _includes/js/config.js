@@ -94,9 +94,7 @@ var siteConfig = {
       "type": "in",
       "key": "publishingOrg",
       "values": [
-        "760d5f24-4c04-40da-9646-1b2c935da502",
-        "2e7df380-8356-4533-bcb3-5459e23c794e",
-        "8e1a97a0-3ca8-11d9-8439-b8a03c50a862"
+        "7a070ba0-bafb-11d9-8e53-b8a03c50a862"
       ]
     },
     "highlightedFilters": [
