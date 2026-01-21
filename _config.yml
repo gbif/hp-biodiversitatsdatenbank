@@ -48,10 +48,10 @@ plugins:
 
 remote_theme: gbif/jekyll-hp-base-theme
 
-algae:
+BDDB:
   rootLang: en
   # latestPostLimit: 2
-  # logo: /assets/images/fungi.svg  # Logo in navbar, will be displayed with 28px height
+  logo: /assets/images/HdN-Logo-rgb.png  # Logo in navbar, will be displayed with 28px height
   # logoAndTitle: false           # include the title next to the logo
   archive_permalink: /news/       # Permalink of page using archive.html layout, required when using post categories
   style:
