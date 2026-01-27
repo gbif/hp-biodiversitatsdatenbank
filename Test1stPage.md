@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Welcome
-background: /assets/images/HdN-Logo-rgb.png
+background: /assets/images/placeholders/HdN-Logo-rgb.png
 description: Most layout assume the fields `background`, `title` and an optional `description`
 ---
 This is my first table
