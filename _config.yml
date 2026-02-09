@@ -55,10 +55,10 @@ BDDB:
   logoAndTitle: true           # include the title next to the logo
   archive_permalink: /news/       # Permalink of page using archive.html layout, required when using post categories
   style:
-     square: false               # Should corners be square or rounded
+    square: false               # Should corners be square or rounded
     colors:
-      primary: "##4E769F"         # Primary color of your brand. Use HEX code. Used for buttons and links
-      links: "##99BB53"          # What color should links have. Use a HEX code. DEfault is primary color. 
+      primary: "#4E769F"         # Primary color of your brand. Use HEX code. Used for buttons and links
+      links: "#99BB53"          # What color should links have. Use a HEX code. DEfault is primary color. 
     coloredHeadlineLinks: false   # If a headline is a link, then use the link color. Default is true. 
   navbar:                         # RELATED TO NAVIGATION BAR
     # brandBackground: yellow     # Define a custom background for the logo/title in the top navigation bar
