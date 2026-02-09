@@ -2,7 +2,7 @@
 layout: post
 title: Welcome
 background: /assets/images/placeholders/HdN-Logo-rgb.png
-description: Most layout assume the fields `background`, `title` and an optional `description`
+description: Welcome to the first BDDB Hosted Portal Site
 ---
 This is my first table
 
