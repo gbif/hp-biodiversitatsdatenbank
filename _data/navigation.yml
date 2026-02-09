@@ -12,6 +12,8 @@
     href: /collection/search
   - text: Literature
     href: /literature/search
+  - text: TestSite
+    href: /Test1stPage
 - text: Links
   menu: # Dropdown menu (one level deep only)
   - text: Base theme demo
