@@ -22,5 +22,5 @@ Das Haus der Natur führt seit dem Jahr 2000 eine Datenbank zur Dokumentation de
 
 In der Biodiversitätsdatenbank werden neben Daten aus den Sammlungen des Museums, auch Literatur- und Forschungsdaten sowie Beobachtungsdaten der Mitglieder der naturwissenschaftlichen Arbeitsgemeinschaften am Haus verwaltet.
 
-
+![Der Reptilienzoo im Haus der Natur.](https://www.hausdernatur.at/assets/images/5/Slider_Reptilienzoo_01-c19f66e51mdf4jx.png)
 
