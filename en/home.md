@@ -3,7 +3,7 @@ lang-ref: home
 layout: home
 title: Biodiversitätsdatenbank Hosted Portal
 description: Entdecken Sie die heimische Artenvielfalt
-background: /assets/images/placeholders/templates/w1600h800.png
+background: /assets/images/placeholders/templates/HNS-FA-0118_330.jpg
 imageLicense: None for this image
 height: 70vh
 cta:
@@ -11,7 +11,7 @@ cta:
     href: /occurrence/search
     isPrimary: true
   - text: Datasets
-    href: /dataset/search
+    href: /dataset/search?publishingOrg=7a070ba0-bafb-11d9-8e53-b8a03c50a862
 permalink: /
 ---
 
