@@ -22,22 +22,22 @@
 # Haupteinstellungen 
 title: Biodiversitätsdatenbank Haus der Natur Salzburg # the title of your site should go here
 email: biodiversitaet@hausdernatur.at
-description: Biodiversitätsdatenbank des Haus der Natur Salzburg mit Sammlungs- 
+description: >- Biodiversitätsdatenbank des Haus der Natur Salzburg mit Sammlungs- 
   und Beobachtungsdaten zur regionalen Biodiversität.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://Biodiversitaetsdatenbank.hausdernatur.at" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://biodiversitaetsdatenbank.hausdernatur.at" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Social Media
 email: biodiversitaet@hausdernatur.at                                   # Social icon in footer
 # twitter_username: yourname # if you have an account you want to link to. Else comment this line out
 # github_username:  yourname # if you have an account you want to link to. Else comment this line out
-# bluesky_username: yourname.org                            # Social icon in footer
-youtube_username: Haus der Natur Salzburg                              # Social icon in footer
-facebook_username: Haus der Natur | Salzburg                             # Social icon in footer
-# flickr_username: yourname                               # Social icon in footer
-instagram_username: hausdernatur                              # Social icon in footer
-# mastodon_url: https://something.goes/@here                # Social icon in footer
-# linkedin_url: https://www.linkedin.com/company/yourname # Social icon in footer
+# bluesky_username: yourname.org                                # Social icon in footer
+youtube_url: https://www.youtube.com/@hausdernatur-salzburg     # Social icon in footer
+facebook_url: https://www.facebook.com/hausdernatursalzburg     # Social icon in footer
+# flickr_username: yourname                                     # Social icon in footer
+instagram_username: hausdernatur                                # Social icon in footer
+# mastodon_url: https://something.goes/@here                    # Social icon in footer
+# linkedin_url: https://www.linkedin.com/company/yourname       # Social icon in footer
 
 # Build settings - nicht ändern!
 theme: minima
@@ -51,7 +51,7 @@ remote_theme: gbif/jekyll-hp-base-theme
 BDDB:
   rootLang: de
   latestPostLimit: 3
-  logo: /assets/images/placeholders/HdN-Logo-rgb.png  # Logo in navbar, will be displayed with 28px height
+  logo: assets/images/placeholders/HdN-Logo-rgb.png  # Logo in navbar, will be displayed with 28px height
   logoAndTitle: true           # include the title next to the logo
   archive_permalink: /news/       # Permalink of page using archive.html layout, required when using post categories
   style:
@@ -118,5 +118,5 @@ defaults:
     values:
       layout: "post"
       permalink: "/en/post/:year/:slug/"   # Use /en/post/yyyy/{filename}/ as permalink for all posts
-      lang: es # And have the default language in that folder be english
+      lang: en # And have the default language in that folder be english
   
