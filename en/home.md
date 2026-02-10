@@ -14,12 +14,6 @@ cta:
     href: /dataset/search?publishingOrg=7a070ba0-bafb-11d9-8e53-b8a03c50a862
 permalink: /
 
-composition:
-  - type: home
-  - type: stats
-   # data: home.stats  #file with the stats: _data/features.yml
-  # type: blank
-  # data: home.homeMap
 ---
 
 
