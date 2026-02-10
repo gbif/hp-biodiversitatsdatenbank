@@ -3,9 +3,9 @@ lang-ref: home
 layout: home
 title: Biodiversitätsdatenbank Hosted Portal
 description: Entdecken Sie die heimische Artenvielfalt in Salzburg
-background: ![Titelbild.](https://www.hausdernatur.at/files/media_hdn/images/arbeitsgruppen/LysandraBellargus_Gros.jpg)
+background: assets/images/placeholders/HNS-FA-0118_330.jpg
 imageLicense: Haus der Natur
-height: 70vh
+height: 100vh
 cta:
   - text: Occurrences
     href: /occurrence/search
