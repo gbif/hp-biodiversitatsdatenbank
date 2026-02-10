@@ -16,7 +16,7 @@ permalink: /
 ---
 
 
-**Datensammlung des Haus der Natur**
+# **Datensammlung des Haus der Natur**
 
 Das Haus der Natur führt seit dem Jahr 2000 eine Datenbank zur Dokumentation der Verbreitung von Tier- und Pflanzenarten im Bundesland Salzburg. Unterstützt durch das Land Salzburg umfasst die Biodiversitätsdatenbank derzeit knapp drei Millionen Einträge mit genauen Informationen zum Vorkommen von tausenden verschiedenen Organismen. Besondere Aufmerksamkeit gilt gefährdeten und geschützten Arten, sowie den Schutzgebieten des Landes.
 
