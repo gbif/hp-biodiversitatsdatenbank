@@ -2,7 +2,7 @@
 lang-ref: home
 layout: home
 title: Biodiversitätsdatenbank Hosted Portal
-description: Entdecken Sie die heimische Artenvielfalt in Salzburg
+description: Entdecken Sie die heimische Artenvielfalt in Salzburg auf GBIF
 background: assets/images/placeholders/HNS-FA-0118_330.jpg
 imageLicense: Haus der Natur
 height: 100vh
