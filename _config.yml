@@ -21,11 +21,11 @@
 
 # Haupteinstellungen 
 title: Biodiversitätsdatenbank Haus der Natur Salzburg # the title of your site should go here
-email: Torben.schubert@hausdernatur.at
+email: biodiversitaet@hausdernatur.at
 description: Biodiversitätsdatenbank des Haus der Natur Salzburg mit Sammlungs- 
   und Beobachtungsdaten zur regionalen Biodiversität.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://biodiversitatsdatenbank.hp.gbif.org/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://Biodiversitätsdatenbank.hausdernatur.at" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Social Media
 email: Torben.schubert@hausdernatur.at                                   # Social icon in footer
