@@ -28,14 +28,14 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://Biodiversitätsdatenbank.hausdernatur.at" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Social Media
-email: Torben.schubert@hausdernatur.at                                   # Social icon in footer
-twitter_username: yourname # if you have an account you want to link to. Else comment this line out
+email: biodiversitaet@hausdernatur.at                                   # Social icon in footer
+# twitter_username: yourname # if you have an account you want to link to. Else comment this line out
 # github_username:  yourname # if you have an account you want to link to. Else comment this line out
 # bluesky_username: yourname.org                            # Social icon in footer
-# youtube_username: yourname                              # Social icon in footer
-facebook_username: yourname                             # Social icon in footer
+youtube_username: Haus der Natur Salzburg                              # Social icon in footer
+facebook_username: Haus der Natur | Salzburg                             # Social icon in footer
 # flickr_username: yourname                               # Social icon in footer
-instagram_username: yourname                              # Social icon in footer
+instagram_username: hausdernatur                              # Social icon in footer
 # mastodon_url: https://something.goes/@here                # Social icon in footer
 # linkedin_url: https://www.linkedin.com/company/yourname # Social icon in footer
 
@@ -50,7 +50,7 @@ remote_theme: gbif/jekyll-hp-base-theme
 # Design Hosted Portal
 BDDB:
   rootLang: de
-  # latestPostLimit: 2
+  latestPostLimit: 3
   logo: /assets/images/placeholders/HdN-Logo-rgb.png  # Logo in navbar, will be displayed with 28px height
   logoAndTitle: true           # include the title next to the logo
   archive_permalink: /news/       # Permalink of page using archive.html layout, required when using post categories
