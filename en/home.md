@@ -1,8 +1,8 @@
 ---
 lang-ref: home
 layout: home
-title: biodiversitatsdatenbank
-description: Lorem markdownum spatium limes indefessus neque *at* orat aestuat
+title: Biodiversitätsdatenbank Hosted Portal
+description: Entdecken Sie die heimische Artenvielfalt
 background: /assets/images/placeholders/templates/w1600h800.png
 imageLicense: None for this image
 height: 70vh
