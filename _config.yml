@@ -47,10 +47,10 @@ plugins:
 remote_theme: gbif/jekyll-hp-base-theme
 
 # Design Hosted Portal
-BDDB:
+algae:
   rootLang: de
   latestPostLimit: 3
-  logo: assets/images/placeholders/HdN-Logo-rgb.png  # Logo in navbar, will be displayed with 28px height
+  logo: assets/logos/HdN-Logo-rgb.png  # Logo in navbar, will be displayed with 28px height
   logoAndTitle: true           # include the title next to the logo
   archive_permalink: /news/       # Permalink of page using archive.html layout, required when using post categories
   style:
