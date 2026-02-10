@@ -22,8 +22,7 @@
 # Haupteinstellungen 
 title: Biodiversitätsdatenbank Haus der Natur Salzburg # the title of your site should go here
 email: biodiversitaet@hausdernatur.at
-description: >- Biodiversitätsdatenbank des Haus der Natur Salzburg mit Sammlungs- 
-  und Beobachtungsdaten zur regionalen Biodiversität.
+description: Biodiversitätsdatenbank des Haus der Natur Salzburg mit Sammlungs- und Beobachtungsdaten zur regionalen Biodiversität.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://biodiversitaetsdatenbank.hausdernatur.at" # the base hostname & protocol for your site, e.g. http://example.com
 
