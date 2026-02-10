@@ -2,8 +2,8 @@
 lang-ref: home
 layout: home
 title: Biodiversitätsdatenbank Hosted Portal
-description: Entdecken Sie die heimische Artenvielfalt
-background: /assets/images/placeholders/templates/HNS-FA-0118_330.jpg
+description: Entdecken Sie die heimische Artenvielfalt in Salzburg
+background: /assets/images/placeholders/templates/HdN-Logo-rgb.png
 imageLicense: None for this image
 height: 70vh
 cta:
