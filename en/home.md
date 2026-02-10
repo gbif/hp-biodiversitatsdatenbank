@@ -15,14 +15,12 @@ cta:
 permalink: /
 ---
 
-Edit `/home.md` to change the text.
 
-Lorem markdownum spatium limes indefessus neque *at* orat aestuat, quicquam ne
-flavusque omnibus, virginis socerque sparsos vidimus eundem. Sustinet **ramo
-pontum ut** avus quamquam de trabes vestemque cruorem tremor.
+Archiv für das Land Salzburg
 
-Viscera mercibus isdem hebetarat undas! Iubet ora ire unum telis adicit, si
-Telephus *valent*, instructo refers. Ille **est resque**, sic ruris erit ante
-profana detegeret. Et cogor tractus arboribus prensurum praesens memorantur
-neque inplet iussus temeraria merui **fas ecce** aethera dixit fieretque [plura
-tollebat altius](http://virgineusque.net/est.html).
+Das Haus der Natur führt seit dem Jahr 2000 eine Datenbank zur Dokumentation der Verbreitung von Tier- und Pflanzenarten im Bundesland Salzburg. Unterstützt durch das Land Salzburg umfasst die Biodiversitätsdatenbank derzeit knapp drei Millionen Einträge mit genauen Informationen zum Vorkommen von tausenden verschiedenen Organismen. Besondere Aufmerksamkeit gilt gefährdeten und geschützten Arten, sowie den Schutzgebieten des Landes.
+
+In der Biodiversitätsdatenbank werden neben Daten aus den Sammlungen des Museums, auch Literatur- und Forschungsdaten sowie Beobachtungsdaten der Mitglieder der naturwissenschaftlichen Arbeitsgemeinschaften am Haus verwaltet.
+
+
+
