@@ -17,9 +17,9 @@ permalink: /
 composition:
   - type: home
   - type: stats
-    data: home.stats  #file with the stats: _data/features.yml
-  - type: blank
-    data: home.homeMap
+   # data: home.stats  #file with the stats: _data/features.yml
+  # type: blank
+  # data: home.homeMap
 ---
 
 
