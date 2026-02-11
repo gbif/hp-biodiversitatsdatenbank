@@ -55,7 +55,7 @@ var siteConfig = {
   "maps": {
     "mapStyles": {
       "defaultProjection": "MERCATOR",
-      "defaultMapStyle": "BRIGHT",
+      "defaultMapStyle": "NATURAL",
       "options": {
         "MERCATOR": [
           "BRIGHT",
