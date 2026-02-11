@@ -5,27 +5,26 @@
 
 # Columns (the more you add, the narrower they will be)
 columns:
-  - name: Column example
+  - name: #**HAUS DER NATUR**
     description: | # Can be Markdown and multiline as shown here. 
-      This is an example column. You can add as many as you want.
-      Each column can have a name, an optional description and optional links.
-      You can also enable social icons for a column (e.g. for a "Contact" column).
+      Auf mehr als 7.000 m² zeigt Salzburgs beliebtestes Museum die 
+      Natur von ihrer spannendsten Seite: Von faszinierenden 
+      Unterwasserwelten im Aquarium zu außerirdischen Erlebnissen in 
+      der Weltraumhalle, von riesigen Sauriern aus längst vergangenen 
+      Tagen zu einer Reise in den menschlichen Körper. Weiteres 
+      Highlight: Forschen und Experimentieren in Österreichs 
+      vielseitigstem Science Center. Am besten selbst entdecken – 
+      dieses Museum ist ein Abenteuer!
     links:
-    - text: Name of project partner 1
-      href: http://example.com
-    - text: Name of project partner 2
-      href: http://example.com
-
-  - name: Code
-    description: | # Can be Markdown
-      See `_data/footer.yml` to customize the footer.
+    - text: Haus der Natur Museum für Natur und Technik
+      href: https://www.hausdernatur.at/de/
   
   - name: Contact
     description: | # Can be Markdown
-      Social icons links defined in `_config.yml`
-      * Street name
-      * 1234 postal code
-      * Country
+      Haus der Natur
+      Museumsplatz 5
+      5020 Salzburg
+      Österreich
     connectIcons: true # Show social icons (defined in _config.yml)
 
 
