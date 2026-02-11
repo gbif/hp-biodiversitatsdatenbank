@@ -25,4 +25,8 @@ In der Biodiversitätsdatenbank werden neben Daten aus den Sammlungen des Museum
 
 ![Der Reptilienzoo im Haus der Natur.](https://www.hausdernatur.at/assets/images/5/Slider_Reptilienzoo_01-c19f66e51mdf4jx.png)
 
+composition:
+  - type: heroImage
+  - type: stats
+    data: home.stats
 
