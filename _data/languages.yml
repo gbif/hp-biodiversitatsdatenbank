@@ -1,7 +1,11 @@
 # The translations on this page is machine generated and need a review
+
+de:
+  label: German
+  archive_permalink: /post/
 en:
   label: English
-  archive_permalink: /post/
+  archive_permalink: /en/post/
 da:
   label: Dansk
   archive_permalink: /da/post/
