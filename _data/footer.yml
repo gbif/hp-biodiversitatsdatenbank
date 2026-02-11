@@ -5,7 +5,7 @@
 
 # Columns (the more you add, the narrower they will be)
 columns:
-  - name: #**HAUS DER NATUR**
+  - name: **HAUS DER NATUR**
     description: | # Can be Markdown and multiline as shown here. 
       Auf mehr als 7.000 m² zeigt Salzburgs beliebtestes Museum die 
       Natur von ihrer spannendsten Seite: Von faszinierenden 
