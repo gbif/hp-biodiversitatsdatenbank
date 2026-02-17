@@ -14,8 +14,6 @@ cta:
     href: /dataset/search?publishingOrg=7a070ba0-bafb-11d9-8e53-b8a03c50a862
 permalink: /
 
----
-
 
 # **Datensammlung des Haus der Natur**
 
@@ -30,3 +28,4 @@ composition:
   - type: stats
     data: home.stats
 
+---
