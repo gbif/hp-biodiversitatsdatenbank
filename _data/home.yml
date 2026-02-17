@@ -8,14 +8,14 @@ stats:
       #imageLicense: "{{ site.data.images.specimens.caption }}"
       href: "/occurrence/search"
         
-   # - title: <span data-ajax-url="https://api.gbif.org/v1/occurrence/search?limit=0&publishingOrg=7a070ba0-bafb-11d9-8e53-b8a03c50a862&basisOfRecord=PRESERVED_SPECIMEN"></span>
+    - title: <span data-ajax-url="https://api.gbif.org/v1/occurrence/search?limit=0&publishingOrg=7a070ba0-bafb-11d9-8e53-b8a03c50a862&basisOfRecord=PRESERVED_SPECIMEN"></span>
       #description: "Anzahl Belege"
       #background:  "{{ site.data.images.collections.src }}"
       #imageLicense: "{{ site.data.images.collections.caption }}"
       #href: "/collection/search"
 
-   # - title: <span data-ajax-url="https://api.gbif.org/v1/grscicoll/collection?limit=0&active=true&institutionKey=c1492854-5d15-40e9-9ee7-24a18ac05112&institutionKey=c7730a08-74b4-48cd-80a7-831a19ac660d&institutionKey=27a8d03b-4a5a-4bda-8e22-1ac0ac2dc6fc"></span>
-      #description: "Taxa"
-      #background:  "{{ site.data.images.institutions.src }}"
-      #imageLicense: "{{ site.data.images.institutions.caption }}"
-      #href: "/institution/search"
+     - title: <span data-ajax-url="https://api.gbif.org/v1/occurrence/search?limit=0&publishingOrg=7a070ba0-bafb-11d9-8e53-b8a03c50a862&basisOfRecord=Verbatim scientific name"></span>
+      #description: "Anzahl Taxa"
+      #background:  "{{ site.data.images.collections.src }}"
+      #imageLicense: "{{ site.data.images.collections.caption }}"
+      #href: "/collection/search"
