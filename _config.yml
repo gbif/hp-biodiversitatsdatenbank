@@ -107,15 +107,17 @@ defaults:
     values:
       layout: "post"
       permalink: "/post/:year/:slug/"   # Use /post/yyyy/{filename}/ as permalink for all posts
-      
-  - scope:
-      path: "en/" # For anything in the "en" folder the default is to set the lang frontMatter property to "en" . this should be deleted or adapted to your site if you support other languages
-    values:
-      lang: en
-  - scope:
-      path: "_posts/en" # our subfolder in posts for english translation of news items
-    values:
-      layout: "post"
-      permalink: "/en/post/:year/:slug/"   # Use /en/post/yyyy/{filename}/ as permalink for all posts
-      lang: en # And have the default language in that folder be english
+
+
+# Englische Unterseite
+  #- scope:
+  #    path: "en/" # For anything in the "en" folder the default is to set the lang frontMatter property to "en" . this should be deleted or adapted to your site if you support other languages
+  #  values:
+  #    lang: en
+  #- scope:
+  #    path: "_posts/en" # our subfolder in posts for english translation of news items
+  # values:
+  #    layout: "post"
+  #    permalink: "/en/post/:year/:slug/"   # Use /en/post/yyyy/{filename}/ as permalink for all posts
+  #    lang: en # And have the default language in that folder be english
   
