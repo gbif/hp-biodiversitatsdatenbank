@@ -19,12 +19,4 @@ composition:
   - type: stats
     data: home.stats
     
-# **Datensammlung des Haus der Natur**
-
-Das Haus der Natur führt seit dem Jahr 2000 eine Datenbank zur Dokumentation der Verbreitung von Tier- und Pflanzenarten im Bundesland Salzburg. Unterstützt durch das Land Salzburg umfasst die Biodiversitätsdatenbank derzeit knapp drei Millionen Einträge mit genauen Informationen zum Vorkommen von tausenden verschiedenen Organismen.<br/> Besondere Aufmerksamkeit gilt gefährdeten und geschützten Arten, sowie den Schutzgebieten des Landes.
-
-In der Biodiversitätsdatenbank werden neben Daten aus den Sammlungen des Museums, auch Literatur- und Forschungsdaten sowie Beobachtungsdaten der Mitglieder der naturwissenschaftlichen Arbeitsgemeinschaften am Haus verwaltet.
-
-![Der Reptilienzoo im Haus der Natur.](https://www.hausdernatur.at/assets/images/5/Slider_Reptilienzoo_01-c19f66e51mdf4jx.png)
-
 ---
