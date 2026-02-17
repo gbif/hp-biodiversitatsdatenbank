@@ -1,8 +1,8 @@
-title: Collection
+title: Story
 layout: post
-permalink: /collection
+permalink: /1stStory
 language: en
 language-ref: collection
 composition:
   - type: features
-    data: collection
+    data: data1stStory
