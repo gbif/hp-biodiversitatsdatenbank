@@ -18,5 +18,7 @@ composition:
   - type: heroImage
   - type: stats
     data: home.stats
+  - type: features
+    data: home.collection
     
 ---
