@@ -10,12 +10,12 @@ stats:
         
     - title: <span data-ajax-url="https://api.gbif.org/v1/occurrence/search?limit=0&publishingOrg=7a070ba0-bafb-11d9-8e53-b8a03c50a862&basisOfRecord=PRESERVED_SPECIMEN"></span>
       description: "Anzahl Belege"
-      #background:  "{{ site.data.images.collections.src }}"
+      background:  assets/vectors/Belege.png
       #imageLicense: "{{ site.data.images.collections.caption }}"
       href: "/collection/search"
 
     - title: <span data-ajax-url="https://api.gbif.org/v1/occurrence/search?limit=0&publishingOrg=7a070ba0-bafb-11d9-8e53-b8a03c50a862&mediatype=still image"></span>
       description: "Anzahl Digitalisate"
-      #background:  "{{ site.data.images.collections.src }}"
+      background: assets/vectors/Digitalisate.png
       #imageLicense: "{{ site.data.images.collections.caption }}"
       href: "/collection/search"
