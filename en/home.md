@@ -19,6 +19,6 @@ composition:
   - type: stats
     data: home.stats
   - type: features
-    data: home.collection
+    data: home.1stStory
     
 ---
