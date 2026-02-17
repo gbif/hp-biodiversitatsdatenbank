@@ -1,0 +1,12 @@
+
+stats:
+  klass: contentTypesStat
+  # title: "type: stats"    
+  #  See [`_data/compose/examples.yml`](https://github.com/gbif/jekyll-theme-algae/blob/master/_data/compose/examples.yml#L72) for the content structure.
+  features:
+    - title: <span data-ajax-url="https://api.gbif.org/v1/organization?country=CH&limit=0&isEndorsed=true">642</span>
+      description: Swiss institutions (publishers)
+      background: /assets/logos/HdN-Logo-rgb.png
+      href: /institution/search
+  description: |      # required
+    Data source (up-to-date) : [GBIF](https://www.gbif.org/occurrence/search?q=switzerland&country=CH)
