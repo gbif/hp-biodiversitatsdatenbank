@@ -23,18 +23,8 @@ stats:
 
 # Startseite - Features
 
-features:
-    - # preTitle: News  # optional
-      title: Sammlungen am Haus der Natur # required
-      description: |      # required
-        Am Haus der Natur gibt es großartige Sammlungen
-      # img required
-      background: /assets/images/Amsel_2_JPÖ_2.jpg
-      href: /about
-      categories: [Sammlung]
-      cta:
-      - text: Explore
-        href: /occurrence/search?recordedBy=ContactID%3A+159230
-        isPrimary: true
-      - text: About
-        href: /about
+  features:
+    - title: Sammlungen am Haus der Natur
+      description: Am Haus der Natur gibt es großartige Sammlungen
+      background: assets/images/Amsel_2_JPÖ_2.jpg
+      href: /occurrence/search?recordedBy=ContactID%3A+159230
