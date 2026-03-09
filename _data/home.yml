@@ -23,6 +23,10 @@ stats:
 
 # Startseite - Features
 
+features:
+  title: Sammlungen
+  description: Entdecken Sie unsere Sammlungen
+
   features:
     - title: Sammlungen am Haus der Natur
       description: Am Haus der Natur gibt es großartige Sammlungen
