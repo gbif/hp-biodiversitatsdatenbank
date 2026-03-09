@@ -1,6 +1,7 @@
 # Startseite - Statistiken
 stats:
   klass: contentTypesStat
+  featureSize: 150px
   features:
     - title: <span data-ajax-url="https://api.gbif.org/v1/occurrence/search?limit=0&publishingOrg=7a070ba0-bafb-11d9-8e53-b8a03c50a862"></span>
       description: "Anzahl Beobachtungen"
