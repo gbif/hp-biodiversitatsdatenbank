@@ -4,19 +4,19 @@ stats:
   features:
     - title: <span data-ajax-url="https://api.gbif.org/v1/occurrence/search?limit=0&publishingOrg=7a070ba0-bafb-11d9-8e53-b8a03c50a862"></span>
       description: "Anzahl Beobachtungen"
-      background:  assets/vectors/location-1132647_1920.png
+      background:  assets/vectors/ChatGPT_Beobachtungen.png
       #imageLicense: "{{ site.data.images.specimens.caption }}"
       href: "/occurrence/search?view=map"
         
     - title: <span data-ajax-url="https://api.gbif.org/v1/occurrence/search?limit=0&publishingOrg=7a070ba0-bafb-11d9-8e53-b8a03c50a862&basisOfRecord=PRESERVED_SPECIMEN"></span>
       description: "Anzahl Belege"
-      background:  assets/vectors/Belege.png
+      background:  assets/vectors/ChatGPT_Belege.png
       #imageLicense: "{{ site.data.images.collections.caption }}"
       href: "/occurrence/search?view=map&basisOfRecord=PRESERVED_SPECIMEN"
 
     - title: <span data-ajax-url="https://api.gbif.org/v1/occurrence/search?limit=0&publishingOrg=7a070ba0-bafb-11d9-8e53-b8a03c50a862&mediatype=still image"></span>
       description: "Anzahl Digitalisate"
-      background: assets/vectors/Digitalisate.png
+      background: assets/vectors/ChatGPT_Digitalisate.png
       #imageLicense: "{{ site.data.images.collections.caption }}"
       href: "/occurrence/search?view=gallery&mediaType=StillImage"
 
