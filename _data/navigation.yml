@@ -6,10 +6,10 @@
   menu: 
   - text: Haus der Natur
     href: /dataset/c1492854-5d15-40e9-9ee7-24a18ac05112
-  - text: Datasets
-    href: /dataset/search
-  - text: Collections
-    href: /collection/search
+  - text: Nationalpark Hohe Tauern
+    href: /dataset/c7730a08-74b4-48cd-80a7-831a19ac660d
+  - text: Naturschutzbund
+    href: /dataset/27a8d03b-4a5a-4bda-8e22-1ac0ac2dc6fc
   - text: Literature
     href: /literature/search
   - text: TestSite
