@@ -18,7 +18,9 @@
   menu:
   - text: Herbarium SZB
     href: https://biodiversitatsdatenbank.hp.gbif-staging.org/occurrence/search?basisOfRecord=PRESERVED_SPECIMEN&taxonKey=6
-  - text: Entomologische Sammlung    
+  - text: Entomologische Sammlung
+    menu:
+      - text: Glenz-Sammlung
   - text: Molluskensammlung
 - text: Links
   menu: 
