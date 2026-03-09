@@ -10,10 +10,7 @@
     href: /dataset/c7730a08-74b4-48cd-80a7-831a19ac660d
   - text: Naturschutzbund
     href: /dataset/27a8d03b-4a5a-4bda-8e22-1ac0ac2dc6fc
-  - text: Literature
-    href: /literature/search
-  - text: TestSite
-    href: /Test1stPage
+
 - text: Sammlungen
   menu:
   - text: Herbarium SZB
