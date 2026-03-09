@@ -17,6 +17,7 @@ stats:
     - title: <span data-ajax-url="https://api.gbif.org/v1/occurrence/search?limit=0&publishingOrg=7a070ba0-bafb-11d9-8e53-b8a03c50a862&mediatype=still image"></span>
       description: "Anzahl Digitalisate"
       background: assets/vectors/ChatGPT_Digitalisate.png
+      backgroundSize: 150%
       #imageLicense: "{{ site.data.images.collections.caption }}"
       href: "/occurrence/search?view=gallery&mediaType=StillImage"
 
