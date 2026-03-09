@@ -1,0 +1,38 @@
+.contentTypesStat {
+  .feature-img {
+    border-radius: 50%;
+    overflow: hidden;
+    height: 320px;
+    width: 320px;
+  }
+
+  .statistic {
+    flex: 0 0 320px;
+    width: 320px;
+    margin: 24px 12px;
+  }
+}
+
+@media (max-width: 1250px) {
+  .feature-img {
+    height: 280px;
+    width: 280px;
+  }
+
+  .statistic {
+    flex: 0 0 280px;
+    width: 280px;
+  }
+}
+
+@media (max-width: 1050px) {
+  .feature-img {
+    height: 240px;
+    width: 240px;
+  }
+
+  .statistic {
+    flex: 0 0 240px;
+    width: 240px;
+  }
+}
