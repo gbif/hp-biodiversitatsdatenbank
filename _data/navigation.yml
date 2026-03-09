@@ -4,8 +4,8 @@
 
 - text: Daten
   menu: 
-  - text: Occurrences
-    href: /occurrence/search
+  - text: Haus der Natur
+    href: /dataset/c1492854-5d15-40e9-9ee7-24a18ac05112
   - text: Datasets
     href: /dataset/search
   - text: Collections
