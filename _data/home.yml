@@ -19,3 +19,26 @@ stats:
       background: assets/vectors/Digitalisate.png
       #imageLicense: "{{ site.data.images.collections.caption }}"
       href: "/occurrence/search?view=gallery&mediaType=StillImage"
+
+
+# Startseite - Features
+
+cardExample:
+  title: Posts vom Haus der Natur
+  description: |
+    Hier findet ihr spannende Geschichten
+  features:
+    - # preTitle: News  # optional
+      title: Sammlungen am Haus der Natur # required
+      description: |      # required
+        Am Haus der Natur gibt es großartige Sammlungen
+      # img required
+      background: /assets/images/Amsel_2_JPÖ_2.jpg
+      href: /about
+      categories: [Sammlung]
+      cta:
+      - text: Explore
+        href: /occurrence/search?recordedBy=ContactID%3A+159230
+        isPrimary: true
+      - text: About
+        href: /about
