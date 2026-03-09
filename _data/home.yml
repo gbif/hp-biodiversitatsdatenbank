@@ -23,11 +23,7 @@ stats:
 
 # Startseite - Features
 
-cardExample:
-  title: Posts vom Haus der Natur
-  description: |
-    Hier findet ihr spannende Geschichten
-  features:
+features:
     - # preTitle: News  # optional
       title: Sammlungen am Haus der Natur # required
       description: |      # required
