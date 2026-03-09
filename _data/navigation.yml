@@ -14,6 +14,12 @@
     href: /literature/search
   - text: TestSite
     href: /Test1stPage
+- text: Sammlungen
+  menu:
+  - text: Herbarium SZB
+    href: https://biodiversitatsdatenbank.hp.gbif-staging.org/occurrence/search?basisOfRecord=PRESERVED_SPECIMEN&taxonKey=6
+  - text: Entomologische Sammlung    
+  - text: Molluskensammlung
 - text: Links
   menu: # Dropdown menu (one level deep only)
   - text: Base theme demo
