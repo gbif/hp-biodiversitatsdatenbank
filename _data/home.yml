@@ -20,6 +20,13 @@ stats:
       #imageLicense: "{{ site.data.images.collections.caption }}"
       href: "/occurrence/search?view=gallery&mediaType=StillImage"
 
+    - title: <span data-ajax-url="https://biodiversitatsdatenbank.hp.gbif-staging.org/occurrence/search?view=dashboard&layout=W1t7ImlkIjoidTEzYjgiLCJwIjp7InZpZXciOiJUQUJMRSJ9LCJ0cmFuc2xhdGlvbiI6ImRhc2hib2FyZC50YXhhIiwidCI6InRheGEifV0sW11d"></span>
+      description: "Anzahl Taxa"
+      background: assets/vectors/ChatGPT_Digitalisate.png
+      #imageLicense: "{{ site.data.images.collections.caption }}"
+      href: "occurrence/search?view=dashboard&layout=W1t7ImlkIjoidTEzYjgiLCJwIjp7InZpZXciOiJUQUJMRSJ9LCJ0cmFuc2xhdGlvbiI6ImRhc2hib2FyZC50YXhhIiwidCI6InRheGEifV0sW11d"
+      
+
 
 # Startseite - Features
 
