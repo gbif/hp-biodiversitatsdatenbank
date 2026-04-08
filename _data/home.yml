@@ -32,3 +32,10 @@ features:
       description: Am Haus der Natur gibt es großartige Sammlungen
       background: assets/images/Amsel_2_JPÖ_2.jpg
       href: /occurrence/search?recordedBy=ContactID%3A+159230
+
+# Startseite - Video
+
+align: right
+title: "type: video"
+videos: <div class="video-container"><iframe src="https://www.youtube.com/watch?v=EUQyw7ki6XY" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div>
+imageLicense: Video by [Haus der Natur Salzburg](https://www.hausdernatur.at/de/)
