@@ -39,10 +39,11 @@ video:
   align: right
   title: "Haus der Natur Imagefilm"
   description: >
-    <div class="video-container">
+    <div class="video-container" style="background: transparent;">
       <iframe src="https://www.youtube.com/embed/EUQyw7ki6XY"
       frameborder="0"
       allow="autoplay; fullscreen; picture-in-picture"
       allowfullscreen></iframe>
     </div>
+  background: transparent
   imageLicense: Video by Haus der Natur Salzburg
