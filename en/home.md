@@ -19,6 +19,6 @@ composition:
   - type: features
     data: home.features
   - type: heroVideo
-    data: <div class="video-container"><iframe src="https://www.youtube.com/watch?v=EUQyw7ki6XY" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div>
+    data: home.video
     
 ---
