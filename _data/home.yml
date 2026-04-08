@@ -40,7 +40,8 @@ video:
   description: >
     <div class="video-container" style="background: transparent;">
       <iframe src="https://www.youtube.com/embed/EUQyw7ki6XY"
-      width="1920" height="1080"
+      width="1920" 
+      height="1080"
       frameborder="0"
       allow="autoplay; fullscreen; picture-in-picture"
       allowfullscreen></iframe>
