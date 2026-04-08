@@ -35,7 +35,7 @@ features:
 
 # Startseite - Video
 
-align: right
+video:
 title: "Haus der Natur Imagefilm"
-videos: "https://www.youtube.com/embed/EUQyw7ki6XY"
+videos: src="https://www.youtube.com/embed/EUQyw7ki6XY"   
 imageLicense: Video by [Haus der Natur Salzburg](https://www.hausdernatur.at/de/)
