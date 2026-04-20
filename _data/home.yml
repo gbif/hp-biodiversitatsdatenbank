@@ -52,7 +52,7 @@ video:
   align: right
   description: >
     <div class="video-container" style="background: transparent;">
-      <iframe src="https://vimeo.com/1181500072"
+      <iframe src="https://vimeo.com/1181500072?share=copy"
       width="1920" 
       height="1080"
       frameborder="0"
