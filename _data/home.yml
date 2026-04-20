@@ -30,7 +30,7 @@ stats:
       description: "Anzahl Zitate"
       background: assets/vectors/ChatGPT_Zitate.png
       #imageLicense: "{{ site.data.images.collections.caption }}"
-      href: "/literature/search?contentType=literature&publishingOrganizationKey=7a070ba0-bafb-11d9-8e53-b8a03c50a862"
+      href: "/literature/search?publishingOrganizationKey=7a070ba0-bafb-11d9-8e53-b8a03c50a862"
 
 
 # Startseite - Features
