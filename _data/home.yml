@@ -48,7 +48,7 @@ features:
 
 # Startseite - Video
 
-video: 
+# video: 
   align: right
   description: >
     <div class="video-container" style="background: transparent;">
