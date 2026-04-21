@@ -18,7 +18,7 @@ composition:
     data: home.stats
   - type: features
     data: home.features
- # - type: heroVideo
- #   data: home.video
+  - type: heroVideo
+    data: home.video
     
 ---
