@@ -53,7 +53,7 @@ features:
     - title: Herbarium SZB
       description: Beispieltext: Herbarium am Haus der Natur.
       background: assets/images/HNS-Malak-M_Sp05130_b.jpg
-      href: Herbarium_Unterseite
+      href: /Herbarium_Unterseite
 
 
 # Startseite - Video
