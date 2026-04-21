@@ -1,6 +1,6 @@
 ---
 layout: compose
-title: Herbarium SZB am Haus der Natur
+title: "Herbarium SZB am Haus der Natur"
 
 composition: 
   - type: postHeader
