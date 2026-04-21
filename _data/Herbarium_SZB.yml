@@ -6,15 +6,16 @@ postSZB:
 dashboardSZB:
   title: "Datenübersicht"
   config: 
-  predicate:
-    type: and
-    predicates:
-      - type: equals
-        key: publishingOrg
-        value: 7a070ba0-bafb-11d9-8e53-b8a03c50a862 
-      - type: equals
-        key: basisOfRecord
-        value: PRESERVED_SPECIMEN
-      - type: equals
-        key: taxonKey
-        value: 6
+    predicate:
+      type: and
+      predicates:
+        - type: equals
+          key: publishingOrg
+          value: 7a070ba0-bafb-11d9-8e53-b8a03c50a862 
+        - type: equals
+          key: basisOfRecord
+          value: PRESERVED_SPECIMEN
+        - type: equals
+          key: taxonKey
+          value: 6
+    charts: [datasetKey, month, taxa, year]
