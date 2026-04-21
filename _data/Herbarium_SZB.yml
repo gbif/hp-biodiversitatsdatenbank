@@ -18,4 +18,4 @@ dashboardSZB:
         - type: equals
           key: taxonKey
           value: 6
-    charts: [datasetKey, month, taxa, year]
+    charts: [taxa, year, typeStatus, country, mediaType]
