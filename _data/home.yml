@@ -44,8 +44,7 @@ features:
       description: Die Entomologische Sammlung am Haus der Natur enthält ~ 500.000 Belege von Insekten. Dazu zählen Schmetterlinge, Käfer, Heuschrecken, Libellen, Ohrwürmer und viele mehr. Erkunde unsere Sammlung hier!
       background: assets/images/20221201_Carabus_splendens_HNS-Coleopt-3375.jpg
       href: /occurrence/search?datasetKey=c1492854-5d15-40e9-9ee7-24a18ac05112&basisOfRecord=PRESERVED_SPECIMEN&taxonKey=216&view=dashboard&layout=W1t7ImlkIjoidjVpamUiLCJwIjp7ImgiOjQ5M30sInRyYW5zbGF0aW9uIjoic2VhcmNoLnRhYnMubWFwIiwiciI6dHJ1ZSwidCI6Im1hcCJ9LHsiaWQiOiJ1MTNiOCIsInAiOnsidmlldyI6IlRBQkxFIn0sInRyYW5zbGF0aW9uIjoiZGFzaGJvYXJkLnRheGEiLCJ0IjoidGF4YSJ9XSxbeyJpZCI6ImpmbTVkIiwicCI6eyJoIjo0OTN9LCJ0cmFuc2xhdGlvbiI6InNlYXJjaC50YWJzLmdhbGxlcnkiLCJyIjp0cnVlLCJ0IjoiZ2FsbGVyeSJ9LHsiaWQiOiI1NTAwNyIsInAiOnt9LCJ0IjoieWVhciJ9XV0%3D
-
-  features:
+  
     - title: Molluskensammlung
       description: Die Molluskensammlung am Haus der Natur enthält X Belege von Mollusken. Dazu zählen Schnecken, Muscheln, Kopffüßer, Kahnfüßer und Stachelweichtiere. Erkunde unsere Sammlung hier!
       background: assets/images/HNS-Malak-M_Sp05130_b.jpg
