@@ -6,4 +6,4 @@ title: Herbarium SZB am Haus der Natur
 ---
 composition: 
 - type: postHeader
-  data: postSZB
+  data: Herbarium_SZB.postSZB
