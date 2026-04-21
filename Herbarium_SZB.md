@@ -1,4 +1,3 @@
----
 layout: compose
 title: Herbarium SZB am Haus der Natur
 
