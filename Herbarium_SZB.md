@@ -7,5 +7,4 @@ composition:
     data: Herbarium_SZB.postSZB
   - type: dashboard
     data: Herbarium_SZB.dashboardSZB
-
 ---
