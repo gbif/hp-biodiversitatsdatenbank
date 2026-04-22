@@ -18,6 +18,8 @@ composition:
     data: home.stats
   - type: features
     data: home.features
+  - type: postHeader
+    data: home.postHeader
 #  - type: heroVideo
 #    data: home.video
     
