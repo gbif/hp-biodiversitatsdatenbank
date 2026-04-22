@@ -25,7 +25,7 @@ dashboardSZB:
 
 
 Welt:
-  background: /assets/vectors/ChatGPT_Weltkarte.png
+  background: /assets/vectors/ChatGPT_Weltkarte_clip.png
   imageLicense: Haus der Natur - erstellt mit ChatGPT
   height: 50vh
   overlayColor: transparent
