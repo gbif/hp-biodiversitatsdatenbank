@@ -8,6 +8,8 @@ hasBlackText: true
 height: 50vh
 composition: 
   - type: heroImage
+  - type: postHeader
+    data: Herbarium_SZB.postSZB
   - type: dashboard
     data: Herbarium_SZB.dashboardSZB
 ---
