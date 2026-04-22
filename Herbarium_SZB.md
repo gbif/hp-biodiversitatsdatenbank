@@ -32,9 +32,9 @@ composition:
 </div>
 
 <div style="display: flex; gap: 10px;">
-  <img src="/assets/images/SZB-MB-00162_clip.jpg" alt="Cypripedium calceolus" style="width: 30%;">
-  <img src="/assets/images/Herbar_SZB-MB-00219_clipped.jpg" alt="Beispielbeleg 2" style="width: 30%;">
-  <img src="/assets/images/SZB-MB-00230.jpg" alt="Beispielbeleg 3" style="width: 30%;">
+  <img src="/assets/images/SZB-MB-00162_clip.jpg" alt="Cypripedium calceolus" style="width: 33%;">
+  <img src="/assets/images/Herbar_SZB-MB-00219_clipped.jpg" alt="Beispielbeleg 2" style="width: 33%;">
+  <img src="/assets/images/SZB-MB-00230.jpg" alt="Beispielbeleg 3" style="width: 33%;">
 </div>
 
 
