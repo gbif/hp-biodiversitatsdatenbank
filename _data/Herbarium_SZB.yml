@@ -27,7 +27,7 @@ dashboardSZB:
 Welt:
   background: /assets/vectors/ChatGPT_Weltkarte.png
   imageLicense: Haus der Natur - erstellt mit ChatGPT
-  height: 40vh
+  height: 50vh
   cta:
     - text: Daten erkunden
       href: https://biodiversitatsdatenbank.hp.gbif-staging.org/occurrence/search?datasetKey=c1492854-5d15-40e9-9ee7-24a18ac05112&basisOfRecord=PRESERVED_SPECIMEN&taxonKey=6&view=dashboard&layout=W1t7ImlkIjoidjVpamUiLCJwIjp7ImgiOjQ5M30sInRyYW5zbGF0aW9uIjoic2VhcmNoLnRhYnMubWFwIiwiciI6dHJ1ZSwidCI6Im1hcCJ9LHsiaWQiOiJ1MTNiOCIsInAiOnsidmlldyI6IlRBQkxFIn0sInRyYW5zbGF0aW9uIjoiZGFzaGJvYXJkLnRheGEiLCJ0IjoidGF4YSJ9XSxbeyJpZCI6ImpmbTVkIiwicCI6eyJoIjo0OTN9LCJ0cmFuc2xhdGlvbiI6InNlYXJjaC50YWJzLmdhbGxlcnkiLCJyIjp0cnVlLCJ0IjoiZ2FsbGVyeSJ9LHsiaWQiOiI1NTAwNyIsInAiOnt9LCJ0IjoieWVhciJ9XV0%3D
