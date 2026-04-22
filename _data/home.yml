@@ -61,8 +61,10 @@ features:
 postHeader:
   title: Film: „(Auf-)Bewahren“: Sammlungen des Museums
   background: assets/images/Clip_Sammlung(1 von 1).jpg
-  cta_text: Video ansehen
-  cta_link: https://vimeo.com/1181500072
+  cta:
+    - text: Daten erkunden
+      href: /occurrence/search
+      isPrimary: true
 
 
 
