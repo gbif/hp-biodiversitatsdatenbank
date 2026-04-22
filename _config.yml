@@ -43,7 +43,6 @@ theme: minima
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
-  - jekyll-target-blank
 
 remote_theme: gbif/jekyll-hp-base-theme
 
