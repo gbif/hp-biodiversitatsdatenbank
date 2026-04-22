@@ -6,7 +6,7 @@ postSZB:
   background: assets/images/SZB-503045.jpg
 
 dashboardSZB:
-  title: "Datenübersicht"
+  title:
   config: 
     predicate:
       type: and
@@ -20,5 +20,4 @@ dashboardSZB:
         - type: equals
           key: taxonKey
           value: 6
-    charts: [taxa, year, typeStatus, country, mediaType]
-    map: [occurences]
+    charts: [taxa, year, country]
