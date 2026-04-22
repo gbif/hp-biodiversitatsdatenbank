@@ -7,7 +7,7 @@ overlayColor: transparent
 hasBlackText: true
 height: 50vh
 composition: 
-  - type: heroimage
+  - type: heroImage
   - type: dashboard
     data: Herbarium_SZB.dashboardSZB
 ---
