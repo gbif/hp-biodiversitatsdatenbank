@@ -56,7 +56,16 @@ features:
       href: /Herbarium_SZB
 
 
-# Startseite - Video
+# Startseite - Video über Foto
+
+postHeader:
+  title: Die Sammlungen am Haus der Natur
+  background: assets/images/Clip_Sammlung(1 von 1).jpg
+  href: https://vimeo.com/1181500072
+
+
+
+# Startseite - Video Einbindung
 
 # video: 
 #  align: right
