@@ -59,7 +59,7 @@ features:
 # Startseite - Video über Foto
 
 postHeader:
-  title: Film: „(Auf-)Bewahren“: Sammlungen des Museums
+  title: "Film: „(Auf-)Bewahren“: Sammlungen des Museums"
   background: assets/images/Clip_Sammlung(1 von 1).jpg
   cta:
     - text: Daten erkunden
