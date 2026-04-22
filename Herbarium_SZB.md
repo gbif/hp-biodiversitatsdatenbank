@@ -29,7 +29,6 @@ composition:
     Darüber hinaus ist mittlerweile ein wesentlicher Teil der Belegsammlung der Pflanzen in einer digitalen Datenbank enthalten, die Pilze sind vollständig erfasst.
   </p>
   
----
 
 </div>
 
