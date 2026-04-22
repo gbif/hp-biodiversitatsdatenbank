@@ -18,7 +18,7 @@ In den botanischen Sammlungen (Herbarium SZB) werden über 200.000 Belege von ge
 
 <div style="display: flex; gap: 10px;">
   <img src="/assets/images/SZB-503045.jpg" alt="Beispielbeleg" style="width: 40%;">
-  <img src="/assets/images/SZB-MB-00219_clipped.jpg" alt="Beispielbeleg 2" style="width: 40%;">
+  <img src="/assets/images/Herbar_SZB-MB-00219_clipped.jpg" alt="Beispielbeleg 2" style="width: 40%;">
 </div>
 
 
