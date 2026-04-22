@@ -28,15 +28,24 @@ composition:
     Für die etwa 6.000 in der Sammlung befindlichen Pilze liegen zum größten Teil Standortfotos bzw. Studioaufnahmen, ausführliche Beschreibungen und Zeichnungen der mikroskopischen Merkmale vor. 
     Darüber hinaus ist mittlerweile ein wesentlicher Teil der Belegsammlung der Pflanzen in einer digitalen Datenbank enthalten, die Pilze sind vollständig erfasst.
   </p>
+---
 
 </div>
 
 <div style="display: flex; gap: 10px;">
   <img src="/assets/images/SZB-MB-00162_clip.jpg" alt="Cypripedium calceolus" style="width: 33%;">
-  <img src="/assets/images/Herbar_SZB-MB-00219_clipped.jpg" alt="Beispielbeleg 2" style="width: 33%;">
-  <img src="/assets/images/SZB-MB-00230.jpg" alt="Beispielbeleg 3" style="width: 33%;">
+  <img src="/assets/images/SZB-503045.jpg" alt="Beispielbeleg 2" style="width: 33%;">
+  <img src="/assets/images/Herbar_SZB-MB-00219_clipped.jpg" alt="Beispielbeleg 3" style="width: 33%;">
 </div>
-
 
 ---
 
+</div>
+
+<div style="display: flex; gap: 10px;">
+  <img src="/assets/images/SZB-83146.jpg" alt="Beispielbild 4" style="width: 33%;">
+  <img src="/assets/images/SZB-MB-00230.jpg" alt="Beispielbeleg 5" style="width: 33%;">
+  <img src="/assets/images/SZB-80240.jpg" alt="Beispielbeleg 6" style="width: 33%;">
+</div>
+
+---
