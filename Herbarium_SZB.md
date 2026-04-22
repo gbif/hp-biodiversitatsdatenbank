@@ -32,6 +32,7 @@ composition:
 
 </div>
 
+
 <div style="display: flex; gap: 10px;">
   <img src="/assets/images/SZB-MB-00162_clip.jpg" alt="Cypripedium calceolus" style="width: 33%;">
   <img src="/assets/images/SZB-503045.jpg" alt="Beispielbeleg 2" style="width: 33%;">
@@ -39,8 +40,6 @@ composition:
 </div>
 
 ---
-
-</div>
 
 <div style="display: flex; gap: 10px;">
   <img src="/assets/images/SZB-83146.jpg" alt="Beispielbild 4" style="width: 33%;">
