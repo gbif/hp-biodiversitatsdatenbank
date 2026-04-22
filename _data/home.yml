@@ -61,7 +61,8 @@ features:
 postHeader:
   title: Die Sammlungen am Haus der Natur
   background: assets/images/Clip_Sammlung(1 von 1).jpg
-  href: https://vimeo.com/1181500072
+  cta_text: Video ansehen
+  cta_link: https://vimeo.com/1181500072
 
 
 
