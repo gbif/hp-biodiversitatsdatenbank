@@ -1,10 +1,14 @@
 ---
 layout: compose
 title: Herbarium SZB am Haus der Natur
-background: 
+background: assets/images/Herbarium.jpg
+imagelicense: © Luigi Caputo
+overlayColor: transparent
+hasBlackText: true
+height: 50vh
 composition: 
-  - type: postHeader
-    data: Herbarium_SZB.postSZB
+  - type: heroimage
+  - type: pageMarkdown
   - type: dashboard
     data: Herbarium_SZB.dashboardSZB
 ---
