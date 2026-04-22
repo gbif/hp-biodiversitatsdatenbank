@@ -17,6 +17,7 @@ gem "jekyll-remote-theme"
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.12"
   gem "jekyll-liquify"
+  gem "jekyll-target-blank"
   gem "jekyll-thumbor", git: "https://github.com/gbif/jekyll-thumbor"
 end
 
