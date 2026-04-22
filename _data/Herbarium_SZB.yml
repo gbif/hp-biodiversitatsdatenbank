@@ -21,3 +21,4 @@ dashboardSZB:
           key: taxonKey
           value: 6
     charts: [taxa, year, typeStatus, country, mediaType]
+    map: [occurences]
