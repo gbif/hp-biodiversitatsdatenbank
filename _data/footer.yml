@@ -8,18 +8,22 @@ columns:
 
   - name: Partnerorganisationen
     description: |
-      ![Land Salzburg](/assets/logos/logo_land_salzburg.png)
+      [![Land Salzburg](/assets/logos/logo_land_salzburg.png)](https://www.salzburg.gv.at/)
       
   - name:
     description: | # Can be Markdown and multiline as shown here. 
-      ![Nationalpark Hohe Tauern](/assets/logos/Nationalpark_Hohe_Tauern_logo.svg.png)
-
-      ![GBIF Austria](/assets/logos/GBIF-Austria_Logo_RGB_Nachbau_Blau.jpg)
+      [![Nationalpark Hohe Tauern](/assets/logos/Nationalpark_Hohe_Tauern_logo.svg.png)](https://hohetauern.at/de/)
+      
+  - name:
+    description: |
+      [![GBIF Austria](/assets/logos/GBIF-Austria_Logo_RGB_Nachbau_Blau.jpg)](https://www.gbif.at)
       
   - name:
     description: | # Can be Markdown and multiline as shown here. 
-      ![OSCA](/assets/logos/OSCA_logo_clip.png)
+      [![OSCA](/assets/logos/OSCA_logo_clip.png)](https://osca.science/)
       
+  - name:
+    description: |
       [![Observation.org](/assets/logos/observation-logo2.png)](https://at.observation.org/)
 
   
