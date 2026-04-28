@@ -5,14 +5,11 @@
 
 # Columns (the more you add, the narrower they will be)
 columns:
-  - name: HAUS DER NATUR
+  - name: Partnerorganisationen
     description: | # Can be Markdown and multiline as shown here. 
-      Die wissenschaftlichen Sammlungen des Museums (Sammlung HNS) reichen bis ins 18. Jahrhundert zurück.  
-      Sie sind sowohl ökologisches und genetisches Archiv als auch wertvolles Kulturgut, das es für künftige Generationen zu bewahren gilt.
-      In Übereinstimmung mit den weltweit gültigen Aufgaben von Museen werden hier Belege der Bio- und Geodiversität aufbewahrt und dokumentiert 
-      und stehen der laufenden wissenschaftlichen Bearbeitung und Vermittlung zur Verfügung.
+      ![Nationalpark Hohe Tauern](/assets/logos/Nationalpark_Hohe_Tauern_logo.svg.png)
   
-  - name: Contact
+  - name: Kontakt
     description: | # Can be Markdown
       Haus der Natur
       
