@@ -37,7 +37,7 @@ facebook_username: hausdernatursalzburg     # Social icon in footer
 instagram_username: hausdernatur                                # Social icon in footer
 # mastodon_url: https://something.goes/@here                    # Social icon in footer
 # linkedin_url: https://www.linkedin.com/company/yourname       # Social icon in footer
-researchgate_url: https://www.researchgate.net/institution/Haus-der-Natur-Museum-fuer-Natur-und-Technik 
+researchgate_username: Haus-der-Natur-Museum-fuer-Natur-und-Technik
 
 # Build settings - nicht ändern!
 theme: minima
