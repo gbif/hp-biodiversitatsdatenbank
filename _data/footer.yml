@@ -7,24 +7,25 @@
 columns:
   - name: HAUS DER NATUR
     description: | # Can be Markdown and multiline as shown here. 
-      Auf mehr als 7.000 m² zeigt Salzburgs beliebtestes Museum die 
-      Natur von ihrer spannendsten Seite: Von faszinierenden 
-      Unterwasserwelten im Aquarium zu außerirdischen Erlebnissen in 
-      der Weltraumhalle, von riesigen Sauriern aus längst vergangenen 
-      Tagen zu einer Reise in den menschlichen Körper. Weiteres 
-      Highlight: Forschen und Experimentieren in Österreichs 
-      vielseitigstem Science Center. Am besten selbst entdecken – 
-      dieses Museum ist ein Abenteuer!
-    links:
-    - text: Haus der Natur Museum für Natur und Technik
-      href: https://www.hausdernatur.at/de/
+      Die wissenschaftlichen Sammlungen des Museums (Sammlung HNS) reichen bis ins 18. Jahrhundert zurück. 
+      
+      Sie sind sowohl ökologisches und genetisches Archiv als auch wertvolles Kulturgut, das es für künftige Generationen zu bewahren gilt. 
+      
+      In Übereinstimmung mit den weltweit gültigen Aufgaben von Museen werden hier Belege der Bio- und Geodiversität aufbewahrt und dokumentiert 
+      
+      und stehen der laufenden wissenschaftlichen Bearbeitung und Vermittlung zur Verfügung.
   
   - name: Contact
     description: | # Can be Markdown
       Haus der Natur
+      
       Museumsplatz 5
+      
       5020 Salzburg
+      
       Österreich
+
+      Website[https://www.hausdernatur.at/de/]
     connectIcons: true # Show social icons (defined in _config.yml)
 
 
