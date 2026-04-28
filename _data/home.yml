@@ -59,10 +59,10 @@ features:
 # Startseite - Video über Foto
 
 postHeader:
-  title: "Film: „(Auf-)Bewahren“: Sammlungen des Museums"
+  title: "Video: Sammlungsarbeit"
   background: assets/images/Clip_Sammlung(1 von 1).jpg
   cta:
-    - text: Film auf Vimeo ansehen
+    - text: Auf Vimeo ansehen
       href: https://vimeo.com/1181500072
       isPrimary: true
 
