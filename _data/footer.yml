@@ -10,19 +10,19 @@ columns:
     description: |
       ![Land Salzburg](/assets/logos/logo_land_salzburg.png)
       
-  - name: "&nbsp;
+  - name: &nbsp;
     description: | # Can be Markdown and multiline as shown here. 
       ![Nationalpark Hohe Tauern](/assets/logos/Nationalpark_Hohe_Tauern_logo.svg.png)
 
-  - name: "&nbsp;
+  - name: &nbsp;
     description: | # Can be Markdown and multiline as shown here. 
       ![GBIF Austria](/assets/logos/GBIF-Austria_Logo_RGB_Nachbau_Blau.jpg)
       
-  - name: "&nbsp;
+  - name: &nbsp;
     description: | # Can be Markdown and multiline as shown here. 
       ![OSCA](/assets/logos/OSCA_logo_clip.png)
       
-  - name: "&nbsp;
+  - name: &nbsp;
     description: | # Can be Markdown and multiline as shown here. 
       ![Observation.org](/assets/logos/observation-logo2.png)
 
