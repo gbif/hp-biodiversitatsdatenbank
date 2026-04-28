@@ -14,7 +14,6 @@ columns:
     description: | # Can be Markdown and multiline as shown here. 
       ![Nationalpark Hohe Tauern](/assets/logos/Nationalpark_Hohe_Tauern_logo.svg.png)
 
-  - name:
     description: | # Can be Markdown and multiline as shown here. 
       ![GBIF Austria](/assets/logos/GBIF-Austria_Logo_RGB_Nachbau_Blau.jpg)
       
@@ -22,9 +21,8 @@ columns:
     description: | # Can be Markdown and multiline as shown here. 
       ![OSCA](/assets/logos/OSCA_logo_clip.png)
       
-  - name:
     description: | # Can be Markdown and multiline as shown here. 
-      ![Observation.org](/assets/logos/observation-logo2.png){:target="https://observation.org/"}
+      [![Observation.org](/assets/logos/observation-logo2.png)](https://observation.org/)
 
   
   - name: Kontakt
