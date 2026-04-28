@@ -22,7 +22,7 @@ columns:
       
       Österreich
 
-      Website[https://www.hausdernatur.at/de/]
+      [Website](https://www.hausdernatur.at/de/)
     connectIcons: true # Show social icons (defined in _config.yml)
 
 
