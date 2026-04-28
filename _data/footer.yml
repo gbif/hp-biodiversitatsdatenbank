@@ -5,9 +5,17 @@
 
 # Columns (the more you add, the narrower they will be)
 columns:
+
   - name: Partnerorganisationen
+    description:
+      ![Land Salzburg](/assets/logos/logo_land_salzburg.png)
+      
+  - name:
     description: | # Can be Markdown and multiline as shown here. 
       ![Nationalpark Hohe Tauern](/assets/logos/Nationalpark_Hohe_Tauern_logo.svg.png)
+
+  - description: | # Can be Markdown and multiline as shown here. 
+      ![GBIF Austria](/assets/logos/GBIF-Austria_Logo_RGB_Nachbau_Blau.jpg)
   
   - name: Kontakt
     description: | # Can be Markdown
