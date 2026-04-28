@@ -3,7 +3,7 @@ lang-ref: home
 layout: home
 title: Biodiversitätsdatenbank Salzburg
 description: Entdecken Sie Salzburgs Artenvielfalt auf GBIF
-background: /assets/images/Lepidopterologie.jpg
+background: /assets/images/Lepidopterologie_1.jpg
 imageLicense: Haus der Natur
 height: 80vh
 cta:
