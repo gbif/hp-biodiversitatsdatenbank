@@ -26,7 +26,7 @@ columns:
     description: |
       [![Observation.org](/assets/logos/observation-logo2.png)](https://at.observation.org/)
 
-    - name: Kontakt
+  - name: Kontakt
     description: | # Can be Markdown
 
       [![Haus der Natur](/assets/logos/HdN-Logo-rgb.png)](https://www.hausdernatur.at/)
