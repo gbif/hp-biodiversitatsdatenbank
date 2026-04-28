@@ -6,6 +6,22 @@
 # Columns (the more you add, the narrower they will be)
 columns:
 
+  - name: Kontakt
+    description: | # Can be Markdown
+
+      [![Haus der Natur](/assets/logos/HdN-Logo-rgb.png)](https://www.hausdernatur.at/)
+
+      
+      Haus der Natur
+      
+      Museumsplatz 5
+      
+      5020 Salzburg
+      
+      Österreich
+
+      [Website](https://www.hausdernatur.at/de/)
+
   - name: Partnerorganisationen
     description: |
       [![Land Salzburg](/assets/logos/logo_land_salzburg.png)](https://www.salzburg.gv.at/)
@@ -27,17 +43,7 @@ columns:
       [![Observation.org](/assets/logos/observation-logo2.png)](https://at.observation.org/)
 
   
-  - name: Kontakt
-    description: | # Can be Markdown
-      Haus der Natur
-      
-      Museumsplatz 5
-      
-      5020 Salzburg
-      
-      Österreich
 
-      [Website](https://www.hausdernatur.at/de/)
     connectIcons: true # Show social icons (defined in _config.yml)
 
 
