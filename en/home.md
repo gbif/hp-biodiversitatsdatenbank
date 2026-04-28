@@ -6,6 +6,7 @@ description: Entdecken Sie Salzburgs Artenvielfalt auf GBIF
 background: /assets/images/Lepidopterologie_1.jpg
 imageLicense: Haus der Natur
 height: 80vh
+parallax: true
 cta:
   - text: Daten erkunden
     href: /occurrence/search
