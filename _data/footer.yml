@@ -24,7 +24,7 @@ columns:
       
   - name:
     description: | # Can be Markdown and multiline as shown here. 
-      ![Observation.org](/assets/logos/observation-logo2.png)
+      ![Observation.org](/assets/logos/observation-logo2.png){:target="https://observation.org/"}
 
   
   - name: Kontakt
