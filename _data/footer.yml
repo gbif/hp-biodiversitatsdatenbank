@@ -7,7 +7,7 @@
 columns:
 
   - name: Partnerorganisationen
-    description:
+    description: |
       ![Land Salzburg](/assets/logos/logo_land_salzburg.png)
       
   - name:
