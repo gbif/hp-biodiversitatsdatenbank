@@ -21,7 +21,11 @@ columns:
         <a href="https://www.gbif.at" target="_blank">
           <img src="/assets/logos/GBIF-Austria_Logo_RGB_Nachbau_Blau.jpg" alt="GBIF Austria">
         </a>
-
+      </div>
+      
+  - name: ""
+    description: |
+      <div class="partner-logos">
         <a href="https://osca.science/" target="_blank">
           <img src="/assets/logos/OSCA_logo_clip.png" alt="OSCA">
         </a>
