@@ -1,0 +1,18 @@
+.partner-logos {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 20px;
+}
+
+.partner-logos a {
+  display: flex;
+  align-items: center;
+}
+
+.partner-logos img {
+  height: 55px;
+  width: auto;
+  object-fit: contain;
+  display: block;
+}
