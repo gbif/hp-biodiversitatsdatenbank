@@ -8,29 +8,29 @@ columns:
 
   - name: Partnerorganisationen
     description: |
-    <div class="partner-logos">
+      <div class="partner-logos">
 
-      <a href="https://www.salzburg.gv.at/" target="_blank">
-        <img src="/assets/logos/logo_land_salzburg.png" alt="Land Salzburg">
-      </a>
+        <a href="https://www.salzburg.gv.at/" target="_blank">
+          <img src="/assets/logos/logo_land_salzburg.png" alt="Land Salzburg">
+        </a>
 
-      <a href="https://hohetauern.at/de/" target="_blank">
-        <img src="/assets/logos/Nationalpark_Hohe_Tauern_logo.svg.png" alt="Nationalpark Hohe Tauern">
-      </a>
+        <a href="https://hohetauern.at/de/" target="_blank">
+          <img src="/assets/logos/Nationalpark_Hohe_Tauern_logo.svg.png" alt="Nationalpark Hohe Tauern">
+        </a>
 
-      <a href="https://www.gbif.at" target="_blank">
-        <img src="/assets/logos/GBIF-Austria_Logo_RGB_Nachbau_Blau.jpg" alt="GBIF Austria">
-      </a>
+        <a href="https://www.gbif.at" target="_blank">
+          <img src="/assets/logos/GBIF-Austria_Logo_RGB_Nachbau_Blau.jpg" alt="GBIF Austria">
+        </a>
 
-      <a href="https://osca.science/" target="_blank">
-        <img src="/assets/logos/OSCA_logo_clip.png" alt="OSCA">
-      </a>
+        <a href="https://osca.science/" target="_blank">
+          <img src="/assets/logos/OSCA_logo_clip.png" alt="OSCA">
+        </a>
 
-      <a href="https://at.observation.org/" target="_blank">
-        <img src="/assets/logos/observation-logo2.png" alt="Observation.org">
-      </a>
+        <a href="https://at.observation.org/" target="_blank">
+          <img src="/assets/logos/observation-logo2.png" alt="Observation.org">
+        </a>
 
-    </div>
+      </div>
 
   - name: Kontakt
     description: | # Can be Markdown
