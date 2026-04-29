@@ -59,7 +59,8 @@ features:
 # Startseite - Video über Foto
 
 postHeader:
-  title: "Video: Sammlungsarbeit"
+  title:
+  description: "Video: Sammlungsarbeit"
   background: assets/images/Clip_Sammlung(1 von 1).jpg
   cta:
     - text: Auf Vimeo ansehen
