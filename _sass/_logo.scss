@@ -1,19 +1,20 @@
 .partner-logos {
-  display: flex !important;
-  flex-wrap: wrap;
-  align-items: center;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
   gap: 20px;
+  align-items: center;
 }
 
 .partner-logos a {
-  display: flex !important;
+  display: flex;
+  justify-content: center;
   align-items: center;
+  height: 60px;
 }
 
 .partner-logos img {
-  height: 55px !important;
-  max-height: 55px !important;
-  width: auto !important;
-  display: block;
+  max-height: 50px;
+  width: auto;
+  height: auto;
   object-fit: contain;
 }
