@@ -1,14 +1,20 @@
-.partner-logo-single {
+.partner-logos {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
+  gap: 20px;
+  align-items: center;
+}
+
+.partner-logos a {
   display: flex;
   justify-content: center;
   align-items: center;
+  height: 60px;
 }
-.partner-logo-single img {
-  max-height: 55px;
+
+.partner-logos img {
+  max-height: 50px;
   width: auto;
   height: auto;
   object-fit: contain;
-}
-.logo-spacer {
-  height: 40px;
 }
