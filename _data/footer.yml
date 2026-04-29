@@ -28,17 +28,14 @@ columns:
 
   - name: Kontakt
     description: | # Can be Markdown
-
-      [![Haus der Natur](/assets/logos/HdN-Logo-rgb.png)](https://www.hausdernatur.at/)
-
+      <a href="https://www.hausdernatur.at/" target="_blank">
+        <img src="/assets/logos/HdN-Logo-rgb.png" alt="Haus der Natur" style="width:70%;">
+      </a>
       
-      Haus der Natur
-      
-      Museumsplatz 5
-      
-      5020 Salzburg
-      
-      Österreich
+      Haus der Natur<br>
+      Museumsplatz 5<br>
+      5020 Salzburg<br>
+      Österreich<br>
 
       [Website](https://www.hausdernatur.at/de/)
     connectIcons: true # Show social icons (defined in _config.yml)
