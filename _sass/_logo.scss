@@ -1,19 +1,18 @@
-.partner-logos {
+.column .description .partner-logos {
   display: flex !important;
-  flex-direction: row;
-  flex-wrap: wrap;
+  flex-direction: row !important;
+  flex-wrap: wrap !important;
   align-items: center;
   gap: 20px;
 }
 
-.partner-logos a {
-  display: flex;
+.column .description .partner-logos a {
+  display: inline-flex !important;
   align-items: center;
 }
 
-.partner-logos img {
+.column .description .partner-logos img {
   height: 55px;
   width: auto;
-  object-fit: contain;
   display: block;
 }
