@@ -3,26 +3,26 @@
    ========================= */
 
 /* Höhe nur für diesen Block */
-.floatingHero:has(.video-section) {
+.floatingHero:last-of-type {
   min-height: 50vh !important;
   height: 50vh !important;
 }
 
 /* Titel nur dort kleiner */
-.floatingHero:has(.video-section) .feature-title {
+.floatingHero:last-of-type .feature-title {
   font-size: 1.1rem !important;
   font-weight: 600;
   line-height: 1.3;
 }
 
 /* Hintergrund fixen */
-.floatingHero:has(.video-section),
-.floatingHero:has(.video-section) .feature-img {
+
+.floatingHero:last-of-type .feature-img {
   background: #ecf2f3 !important;
 }
 
 /* GANZ WICHTIG → das ist der graue Layer */
-.floatingHero:has(.video-section) .feature-overlay {
+.floatingHero:last-of-type .feature-overlay {
   background: transparent !important;
 }
 
