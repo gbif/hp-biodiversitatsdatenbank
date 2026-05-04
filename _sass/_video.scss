@@ -13,8 +13,10 @@
   height: 50vh !important;
 }
 
-.heroVideo .feature-content {
-  background: #ecf2f3;
+.floatingHero.overlay,
+.floatingHero {
+  background: #ecf2f3 !important;
+}
 }
 
 .video-container {
