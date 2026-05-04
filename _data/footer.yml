@@ -35,7 +35,7 @@ columns:
       
       
   - name: Kontakt
-    description: | # Can be Markdown
+    description: |
       <a href="https://www.hausdernatur.at/" target="_blank">
         <img src="/assets/logos/HdN-Logo-rgb.png" alt="Haus der Natur" style="width:70%;">
       </a>
@@ -48,7 +48,11 @@ columns:
       [Website](https://www.hausdernatur.at/de/)
     connectIcons: true # Show social icons (defined in _config.yml)
 
-
+    
+  - name: Code
+    description: |
+      Der [Code](https://github.com/gbif/hp-biodiversitatsdatenbank/tree/master) dieser Website ist frei verfügbar und unterliegt der Apache-2.0-Lizenz.
+    
   # EXAMPLE - just leave this commented out at the bottom of the file for future reference
   # You can add as many columns as you want
 
