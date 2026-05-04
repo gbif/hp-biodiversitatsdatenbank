@@ -22,11 +22,11 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  height: clamp(80px, 10vw, 130px);
+  height: 80px;
 }
 
 .partner-logos img {
-  height: clamp(70px, 8vw, 110px);
+  height: 70px;
   width: auto;
   object-fit: contain;
 }
