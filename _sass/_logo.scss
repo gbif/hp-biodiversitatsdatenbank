@@ -1,7 +1,21 @@
 .partner-logos {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
+  grid-template-columns: repeat(3, 1fr);
   gap: 30px 40px;
+}
+
+/* Tablet */
+@media (max-width: 900px) {
+  .partner-logos {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+/* Mobile */
+@media (max-width: 500px) {
+  .partner-logos {
+    grid-template-columns: 1fr;
+  }
 }
 
 .partner-logos a {
@@ -9,10 +23,12 @@
   justify-content: center;
   align-items: center;
   height: 80px;
+  width: 100%;
 }
 
 .partner-logos img {
   height: 70px;
   width: auto;
+  max-width: 100%;
   object-fit: contain;
 }
