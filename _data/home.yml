@@ -70,7 +70,7 @@ features:
 
  # Startseite - Video Einbindung
 
- video: 
+video: 
   align: right
   description: >
     <div class="video-container" style="background: transparent;">
