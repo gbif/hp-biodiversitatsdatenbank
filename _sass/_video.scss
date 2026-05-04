@@ -27,30 +27,3 @@
   border: 0;
   display: block;
 }
-
-/* NUR den Video-Block ansprechen */
-.floatingHero:last-of-type {
-  background: #ecf2f3 !important;
-}
-
-/* Pseudo-Overlay entfernen */
-.floatingHero:last-of-type::before {
-  background: #ecf2f3 !important;
-  opacity: 1 !important;
-}
-
-/* Das Overlay-Element selbst */
-.floatingHero:last-of-type .feature-overlay {
-  background: #ecf2f3 !important;
-  opacity: 1 !important;
-}
-
-/* Container hinter dem Video */
-.floatingHero:last-of-type .feature-img {
-  background: #ecf2f3 !important;
-}
-
-/* Falls das <video> leer ist → schwarz verhindern */
-.floatingHero:last-of-type video {
-  background: #ecf2f3 !important;
-}
