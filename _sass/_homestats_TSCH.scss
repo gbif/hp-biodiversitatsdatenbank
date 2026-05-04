@@ -30,7 +30,6 @@
   .feature-description {
     font-size: 22px;
     font-weight: 500;
-    width: 140px;
   }
 }
 
@@ -59,7 +58,9 @@
     }
 
     .feature-description {
-      font-size: 16px;
+      font-size: 18px;
+      text-align: center;
+      margin: 0 auto;
     }
   }
 }
@@ -85,6 +86,8 @@
 
     .feature-description {
       font-size: 18px;
+      text-align: center;
+      margin: 0 auto;
     }
   }
 }
