@@ -1,20 +1,35 @@
-/* Container vom Video-Block */
+/* NUR dein Video-Block */
+.floatingHero:last-of-type {
+  min-height: 50vh !important;
+  height: 50vh !important;
+  background: #ecf2f3 !important;
+}
+
+/* Overlay entfernen */
+.floatingHero:last-of-type::before,
+.floatingHero:last-of-type .feature-overlay,
+.floatingHero:last-of-type .feature-img {
+  background: #ecf2f3 !important;
+  opacity: 1 !important;
+}
+
+/* Titel nur hier kleiner */
+.floatingHero:last-of-type .feature-title {
+  font-size: 1.1rem !important;
+  font-weight: 600;
+}
+
+/* Video Container */
 .video-section {
   width: 100%;
-  background: #ecf2f3;
-  border-radius: 8px;
-  overflow: hidden;
+  height: 100%;
+  display: flex;
 }
 
-/* echtes Video */
+/* Video selbst */
 .video-player {
   width: 100%;
-  height: auto;
-  display: block;
+  height: 100%;
+  object-fit: cover; /* wichtig für gutes Scaling */
   background: #ecf2f3;
-}
-
-/* optional: Abstand im Content */
-.feature-description .video-section {
-  margin-top: 1rem;
 }
