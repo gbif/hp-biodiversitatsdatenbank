@@ -74,14 +74,10 @@ video:
   align: right
   title: "„(Auf-)Bewahren“: Sammlungen des Museums"
   description: >
-    <div class="video-container video-section">
-      <iframe
-        class="video-iframe"
-        src="https://gbif.hausdernatur.at/hdn_image.mp4"
-        loading="lazy"
-        allow="fullscreen; picture-in-picture"
-        allowfullscreen>
-      </iframe>
+    <div class="video-section">
+      <video class="video-player" controls preload="metadata">
+        <source src="https://gbif.hausdernatur.at/hdn_image.mp4" type="video/mp4">
+        Dein Browser unterstützt das Video-Tag nicht.
+      </video>
     </div>
-
   imageLicense: "Video by Haus der Natur Salzburg"
