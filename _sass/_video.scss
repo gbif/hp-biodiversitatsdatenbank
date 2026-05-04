@@ -7,12 +7,23 @@
   margin-bottom: 0.5rem;
 }
 
+.heroVideo,
+.floatingHero {
+  min-height: 40vh !important;
+  height: 40vh !important;
+}
+
+.heroVideo,
+.floatingHero,
+.heroVideo .feature-content {
+  background: #ecf2f3 !important;
+}
+
 .video-container {
-  background: #ecf2f3;
-  height: 40vh;
+  height: 100%;
   width: 100%;
   overflow: hidden;
-  display: block;
+  background: transparent;
 }
 
 .video-iframe {
