@@ -70,15 +70,17 @@ features:
 
  # Startseite - Video Einbindung
 
-video: 
+video:
   align: right
+  title: "„(Auf-)Bewahren“: Sammlungen des Museums"
   description: >
-    <div class="video-container";background: inherit">
-      <iframe src="https://gbif.hausdernatur.at/hdn_image.mp4"
-      width="1920" 
-      height="1080"
-      frameborder="0"
-      allow="autoplay; fullscreen; picture-in-picture"
-      allowfullscreen></iframe>
+    <div class="video-container">
+      <iframe
+        class="video-iframe"
+        src="https://gbif.hausdernatur.at/hdn_image.mp4"
+        allow="autoplay; fullscreen; picture-in-picture"
+        allowfullscreen>
+      </iframe>
     </div>
-  imageLicense: Video by Haus der Natur Salzburg
+
+  imageLicense: "Video by Haus der Natur Salzburg"
