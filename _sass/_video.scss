@@ -13,8 +13,9 @@
   height: 50vh !important;
 }
 
-.floatingHero.overlay {
+.floatingHero.overlay::before {
   background: #ecf2f3 !important;
+  opacity: 1 !important;
 }
 
 .video-container {
