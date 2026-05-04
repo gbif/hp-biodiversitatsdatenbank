@@ -73,7 +73,7 @@ features:
 video: 
   align: right
   description: >
-    <div class="video-container" style="background: transparent;">
+    <div class="video-container";">
       <iframe src="https://gbif.hausdernatur.at/hdn_image.mp4"
       width="1920" 
       height="1080"
