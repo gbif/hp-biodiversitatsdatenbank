@@ -72,6 +72,7 @@ features:
 
 video:
   align: right
+  class: videoHero
   title: "„(Auf-)Bewahren“: Sammlungen des Museums"
   description: >
     <div class="video-section">
