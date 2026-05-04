@@ -58,27 +58,27 @@ features:
 
 # Startseite - Video über Foto
 
-postHeader:
-  title: "Video: Sammlungsarbeit"
-  background: assets/images/Clip_Sammlung(1 von 1).jpg
-  cta:
-    - text: ▶ Auf Vimeo ansehen
-      href: https://vimeo.com/1181500072
-      isPrimary: true
+#postHeader:
+#  title: "Video: Sammlungsarbeit"
+#  background: assets/images/Clip_Sammlung(1 von 1).jpg
+#  cta:
+#    - text: ▶ Auf Vimeo ansehen
+#      href: https://vimeo.com/1181500072
+#      isPrimary: true
 
 
 
-# Startseite - Video Einbindung
+ Startseite - Video Einbindung
 
-# video: 
-#  align: right
-#  description: >
-#    <div class="video-container" style="background: transparent;">
-#      <iframe src="https://vimeo.com/1181500072?share=copy"
-#      width="1920" 
-#      height="1080"
-#      frameborder="0"
-#      allow="autoplay; fullscreen; picture-in-picture"
-#      allowfullscreen></iframe>
-#    </div>
-#  imageLicense: Video by Haus der Natur Salzburg
+ video: 
+  align: right
+  description: >
+    <div class="video-container" style="background: transparent;">
+      <iframe src="https://gbif.hausdernatur.at/hdn_image.mp4"
+      width="1920" 
+      height="1080"
+      frameborder="0"
+      allow="autoplay; fullscreen; picture-in-picture"
+      allowfullscreen></iframe>
+    </div>
+  imageLicense: Video by Haus der Natur Salzburg
