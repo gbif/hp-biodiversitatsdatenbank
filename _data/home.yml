@@ -72,7 +72,7 @@ features:
 
 video:
   align: right
-  title: "„(Auf-)Bewahren“: Sammlungen des Museums"
+  title: "Video: Sammlungen des Museums"
   description: >
     <div class="video-section">
       <video class="video-player" controls preload="metadata">
