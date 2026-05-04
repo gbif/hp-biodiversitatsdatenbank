@@ -1,0 +1,23 @@
+.feature-title,
+.video-container ~ h3,
+.video-container + h3 {
+  font-size: 1.1rem !important;
+  font-weight: 600;
+  line-height: 1.3;
+  margin-bottom: 0.5rem;
+}
+
+.video-container {
+  background: #ecf2f3;
+  height: 40vh;
+  width: 100%;
+  overflow: hidden;
+  display: block;
+}
+
+.video-iframe {
+  width: 100%;
+  height: 100%;
+  border: 0;
+  display: block;
+}
