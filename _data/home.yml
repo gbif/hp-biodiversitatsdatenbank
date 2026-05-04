@@ -74,7 +74,7 @@ video:
   align: right
   title: "„(Auf-)Bewahren“: Sammlungen des Museums"
   description: >
-    <div class="video-container">
+    <div class="video-container video-section">
       <iframe
         class="video-iframe"
         src="https://gbif.hausdernatur.at/hdn_image.mp4"
