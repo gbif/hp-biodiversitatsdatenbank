@@ -78,6 +78,7 @@ video:
       <iframe
         class="video-iframe"
         src="https://gbif.hausdernatur.at/hdn_image.mp4"
+        loading="lazy"
         allow="fullscreen; picture-in-picture"
         allowfullscreen>
       </iframe>
