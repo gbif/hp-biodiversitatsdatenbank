@@ -5,14 +5,14 @@
 }
 
 /* Tablet */
-@media (max-width: 900px) {
+@media (max-width: 1250px) {
   .partner-logos {
     grid-template-columns: repeat(2, 1fr);
   }
 }
 
 /* Mobile */
-@media (max-width: 500px) {
+@media (max-width: 1050px) {
   .partner-logos {
     grid-template-columns: 1fr;
   }
@@ -22,12 +22,12 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 80px;
+  height: clamp(80px, 10vw, 130px);
   width: 100%;
 }
 
 .partner-logos img {
-  height: 70px;
+  height: clamp(70px, 8vw, 110px);
   width: auto;
   max-width: 100%;
   object-fit: contain;
