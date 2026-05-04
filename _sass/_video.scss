@@ -1,29 +1,35 @@
-/* =========================
-   NUR Video-Hero treffen
-   ========================= */
-
-/* Höhe nur für diesen Block */
+/* NUR dein Video-Block */
 .floatingHero:last-of-type {
   min-height: 50vh !important;
   height: 50vh !important;
+  background: #ecf2f3 !important;
 }
 
-/* Titel nur dort kleiner */
+/* Overlay entfernen */
+.floatingHero:last-of-type::before,
+.floatingHero:last-of-type .feature-overlay,
+.floatingHero:last-of-type .feature-img {
+  background: #ecf2f3 !important;
+  opacity: 1 !important;
+}
+
+/* Titel nur hier kleiner */
 .floatingHero:last-of-type .feature-title {
   font-size: 1.1rem !important;
   font-weight: 600;
-  line-height: 1.3;
 }
 
-/* iframe sauber skalieren */
+/* Video Container */
 .video-section {
-  height: 100%;
   width: 100%;
+  height: 100%;
+  display: flex;
 }
 
-.video-iframe {
+/* Video selbst */
+.video-player {
   width: 100%;
   height: 100%;
-  border: 0;
-  display: block;
+  object-fit: cover; /* wichtig für gutes Scaling */
+  background: #ecf2f3;
 }
