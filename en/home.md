@@ -18,6 +18,8 @@ composition:
   - type: stats
     data: home.stats
   - type: features
+    data: home.text
+  - type: features
     data: home.features
 #  - type: postHeader
 #    data: home.postHeader
