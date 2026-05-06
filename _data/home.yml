@@ -35,7 +35,6 @@ stats:
 # Startseite - Beschreibungstext
 
 text:
-  title: ""
   description:  In der Biodiversitätsdatenbank am Haus der Natur werden seit 2001 floristische und faunistische Verbreitungsdaten aus unterschiedlichsten Quellen gesammelt, verwaltet und verfügbar gemacht. Der Schwerpunkt der Daten liegt auf dem Bundesland Salzburg und dem Gebiet des Nationalparks Hohe Tauern.
 
       Zudem erfolgt in der Biodiversitätsdatenbank auch die Verwaltung der biologischen Sammlungen des Museums. Seit dem Jahr 2004 ist das Haus der Natur zudem Datenprovider für die Global Biodiversity Information Facility (GBIF).
