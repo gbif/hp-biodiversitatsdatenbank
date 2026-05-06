@@ -17,7 +17,7 @@ composition:
   - type: heroImage
   - type: stats
     data: home.stats
-  - type: markdown
+  - type: pageMarkdown
     data: home.mdtext
   - type: features
     data: home.features
