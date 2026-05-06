@@ -18,7 +18,7 @@ composition:
   - type: stats
     data: home.stats
   - type: markdown
-    data: home.markdownContent
+    data: home.mdtext
   - type: features
     data: home.features
 #  - type: postHeader
