@@ -43,8 +43,8 @@ mdtext: |
 # Startseite - Features
 
 features:
-  title: Sammlungen
-  description: Entdecken Sie die biologischen Sammlungen am Haus der Natur
+  title: Daten & Sammlungen
+  description: Entdecken Sie die biologischen Daten am Haus der Natur
 
   features:
     - title: Entomologische Sammlung
@@ -55,12 +55,17 @@ features:
     - title: Molluskensammlung
       description: In der malakologischen Sammlung werden etwa 55.000 Belegserien von Schnecken und Muscheln aus aller Welt aufbewahrt. Der Schwerpunkt der Sammlung liegt in Österreich und dem Bundesland Salzburg. Nähere Informationen finden sich auf der Seite der [Malakologischen Arbeitsgemeinschaft](https://www.hausdernatur.at/de/malakologie.html).
       background: assets/images/HNS-Malak-M_Sp05130_b.jpg
-      href: occurrence/search?datasetKey=c1492854-5d15-40e9-9ee7-24a18ac05112&taxonKey=52&basisOfRecord=PRESERVED_SPECIMEN&view=dashboard&layout=W1t7ImlkIjoidjVpamUiLCJwIjp7ImgiOjQ5M30sInRyYW5zbGF0aW9uIjoic2VhcmNoLnRhYnMubWFwIiwiciI6dHJ1ZSwidCI6Im1hcCJ9LHsiaWQiOiJ1MTNiOCIsInAiOnsidmlldyI6IlRBQkxFIn0sInRyYW5zbGF0aW9uIjoiZGFzaGJvYXJkLnRheGEiLCJ0IjoidGF4YSJ9XSxbeyJpZCI6ImpmbTVkIiwicCI6eyJoIjo0OTN9LCJ0cmFuc2xhdGlvbiI6InNlYXJjaC50YWJzLmdhbGxlcnkiLCJyIjp0cnVlLCJ0IjoiZ2FsbGVyeSJ9LHsiaWQiOiI1NTAwNyIsInAiOnt9LCJ0IjoieWVhciJ9XV0%3D
+      href: /occurrence/search?datasetKey=c1492854-5d15-40e9-9ee7-24a18ac05112&taxonKey=52&basisOfRecord=PRESERVED_SPECIMEN&view=dashboard&layout=W1t7ImlkIjoidjVpamUiLCJwIjp7ImgiOjQ5M30sInRyYW5zbGF0aW9uIjoic2VhcmNoLnRhYnMubWFwIiwiciI6dHJ1ZSwidCI6Im1hcCJ9LHsiaWQiOiJ1MTNiOCIsInAiOnsidmlldyI6IlRBQkxFIn0sInRyYW5zbGF0aW9uIjoiZGFzaGJvYXJkLnRheGEiLCJ0IjoidGF4YSJ9XSxbeyJpZCI6ImpmbTVkIiwicCI6eyJoIjo0OTN9LCJ0cmFuc2xhdGlvbiI6InNlYXJjaC50YWJzLmdhbGxlcnkiLCJyIjp0cnVlLCJ0IjoiZ2FsbGVyeSJ9LHsiaWQiOiI1NTAwNyIsInAiOnt9LCJ0IjoieWVhciJ9XV0%3D
 
     - title: Herbarium SZB
       description: In den botanischen Sammlungen (Herbarium SZB) werden über 200.000 Belege von getrockneten Pflanzen, Pilzen und Flechten aufbewahrt. Sie sind ein unersetzbares Archiv, insbesondere des Bundeslandes Salzburg. Die ältesten archivierten Blütenpflanzen wurden vor über 400 Jahren gepresst – die getrockneten Exemplare von Buschwindröschen, Aronstab und Haselwurz sind bis heute nahezu unverändert.
       background: assets/images/Herbarium (2)_quer_Luigi_Caputo.jpg
       href: /Herbarium_SZB
+
+    - title: Wirbeltiersammlung
+      description: In der Wirbeltiersammlung am Haus der Natur befinden sich etwa 16.000 Objekte, vor allem Vögel und Säugetiere aber auch Amphibien, Reptilien und Fische. Die Wirbeltiersammlung umfasst Dermoplastiken, Bälge, Alkoholpräparate, Skelette, Federblätter, Trophäen, Felle und eine Eiersammlung von rezenten sowie ausgestorbenen Arten. Neben der wissenschaftlichen Dokumentation Salzburgs dienen vor allem die Dermoplastiken auch Ausstellungs- und Lehrzwecken im Museum.
+      background: assets/images/HNS-Aves-B-0340_01.jpg
+      href: /occurrence/search?datasetKey=c1492854-5d15-40e9-9ee7-24a18ac05112&basisOfRecord=PRESERVED_SPECIMEN&view=dashboard&layout=W1t7ImlkIjoidjVpamUiLCJwIjp7ImgiOjQ5M30sInRyYW5zbGF0aW9uIjoic2VhcmNoLnRhYnMubWFwIiwiciI6dHJ1ZSwidCI6Im1hcCJ9LHsiaWQiOiJ1MTNiOCIsInAiOnsidmlldyI6IlRBQkxFIn0sInRyYW5zbGF0aW9uIjoiZGFzaGJvYXJkLnRheGEiLCJ0IjoidGF4YSJ9XSxbeyJpZCI6ImpmbTVkIiwicCI6eyJoIjo0OTN9LCJ0cmFuc2xhdGlvbiI6InNlYXJjaC50YWJzLmdhbGxlcnkiLCJyIjp0cnVlLCJ0IjoiZ2FsbGVyeSJ9LHsiaWQiOiI1NTAwNyIsInAiOnt9LCJ0IjoieWVhciJ9XV0%3D&taxonKey=44
 
 
 # Startseite - Video über Foto
