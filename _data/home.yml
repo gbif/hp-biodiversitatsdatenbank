@@ -48,7 +48,7 @@ features:
 
   features:
     - title: Entomologische Sammlung
-      description: In der entomologischen Sammlung werden geschätzte 500.000 Insektenbelege aufbewahrt, die zu einem großen Teil im Bundesland Salzburg gesammelt wurden. Sie sind ein unersetzbares Archiv, dessen naturschutzfachlicher und wissenschaftlicher Wert unermesslich ist. Erkunde unsere Sammlung hier!
+      description: In der entomologischen Sammlung werden geschätzte 500.000 Insektenbelege aufbewahrt, die zu einem großen Teil im Bundesland Salzburg gesammelt wurden. Sie sind ein Archiv, dessen naturschutzfachlicher und wissenschaftlicher Wert unermesslich ist. Erkunde unsere Sammlung hier!
       background: assets/images/20221201_Carabus_splendens_HNS-Coleopt-3375.jpg
       href: /occurrence/search?datasetKey=c1492854-5d15-40e9-9ee7-24a18ac05112&basisOfRecord=PRESERVED_SPECIMEN&taxonKey=216&view=dashboard&layout=W1t7ImlkIjoidjVpamUiLCJwIjp7ImgiOjQ5M30sInRyYW5zbGF0aW9uIjoic2VhcmNoLnRhYnMubWFwIiwiciI6dHJ1ZSwidCI6Im1hcCJ9LHsiaWQiOiJ1MTNiOCIsInAiOnsidmlldyI6IlRBQkxFIn0sInRyYW5zbGF0aW9uIjoiZGFzaGJvYXJkLnRheGEiLCJ0IjoidGF4YSJ9XSxbeyJpZCI6ImpmbTVkIiwicCI6eyJoIjo0OTN9LCJ0cmFuc2xhdGlvbiI6InNlYXJjaC50YWJzLmdhbGxlcnkiLCJyIjp0cnVlLCJ0IjoiZ2FsbGVyeSJ9LHsiaWQiOiI1NTAwNyIsInAiOnt9LCJ0IjoieWVhciJ9XV0%3D
   
@@ -58,7 +58,7 @@ features:
       href: /occurrence/search?datasetKey=c1492854-5d15-40e9-9ee7-24a18ac05112&taxonKey=52&basisOfRecord=PRESERVED_SPECIMEN&view=dashboard&layout=W1t7ImlkIjoidjVpamUiLCJwIjp7ImgiOjQ5M30sInRyYW5zbGF0aW9uIjoic2VhcmNoLnRhYnMubWFwIiwiciI6dHJ1ZSwidCI6Im1hcCJ9LHsiaWQiOiJ1MTNiOCIsInAiOnsidmlldyI6IlRBQkxFIn0sInRyYW5zbGF0aW9uIjoiZGFzaGJvYXJkLnRheGEiLCJ0IjoidGF4YSJ9XSxbeyJpZCI6ImpmbTVkIiwicCI6eyJoIjo0OTN9LCJ0cmFuc2xhdGlvbiI6InNlYXJjaC50YWJzLmdhbGxlcnkiLCJyIjp0cnVlLCJ0IjoiZ2FsbGVyeSJ9LHsiaWQiOiI1NTAwNyIsInAiOnt9LCJ0IjoieWVhciJ9XV0%3D
 
     - title: Herbarium SZB
-      description: In den botanischen Sammlungen (Herbarium SZB) werden über 200.000 Belege von getrockneten Pflanzen, Pilzen und Flechten aufbewahrt. Sie sind ein unersetzbares Archiv, insbesondere des Bundeslandes Salzburg. Die ältesten archivierten Blütenpflanzen wurden vor über 400 Jahren gepresst – die getrockneten Exemplare von Buschwindröschen, Aronstab und Haselwurz sind bis heute nahezu unverändert.
+      description: In den botanischen Sammlungen (Herbarium SZB) werden über 200.000 Belege von getrockneten Pflanzen, Pilzen und Flechten aufbewahrt. Sie sind ein unersetzbares Archiv, insbesondere des Bundeslandes Salzburg. Die ältesten archivierten Blütenpflanzen wurden vor über 400 Jahren gepresst.
       background: assets/images/Herbarium (2)_quer_Luigi_Caputo.jpg
       href: /Herbarium_SZB
 
@@ -73,7 +73,7 @@ features:
       href: /occurrence/search?datasetKey=c1492854-5d15-40e9-9ee7-24a18ac05112&basisOfRecord=MATERIAL_CITATION&view=dashboard&layout=W1t7ImlkIjoidjVpamUiLCJwIjp7ImgiOjQ5M30sInRyYW5zbGF0aW9uIjoic2VhcmNoLnRhYnMubWFwIiwiciI6dHJ1ZSwidCI6Im1hcCJ9LHsiaWQiOiJ1MTNiOCIsInAiOnsidmlldyI6IlRBQkxFIn0sInRyYW5zbGF0aW9uIjoiZGFzaGJvYXJkLnRheGEiLCJ0IjoidGF4YSJ9XSxbeyJpZCI6IjU1MDA3IiwicCI6e30sInQiOiJ5ZWFyIn1dXQ%3D%3D
 
     - title: Citizen Science & Kartierung
-      description: In der Biodiversitätsdatenbank werden neben unseren biologischen Sammlungen, Kartierungs- und Literaturdaten auch Naturbeobachtungen erfasst. Diese stammen vor allem von Bürgerforscher:innen und den Mitgliedern der ehrenamtlichen Arbeitsgemeinschaften am Haus der Natur. Die Beobachtungen werden von unseren Kurator:innen und ehrenamtlichen Expert:innen geprüft, validiert und kuratiert. Mit den [Smartphone-Apps von Observation.org](https://at.observation.org/apps/obsidentify/){:target="_blank"} kann jede/r einfach selbst mitforschen.
+      description: In der Biodiversitätsdatenbank werden neben unseren biologischen Sammlungen und Literaturdaten auch Naturbeobachtungen erfasst. Diese stammen vor allem von Bürgerforscher:innen und den Mitgliedern der [ehrenamtlichen Arbeitsgemeinschaften](https://www.hausdernatur.at/de/arbeitsgruppen.html){:target="_blank"} am Haus der Natur. Die Beobachtungen werden von unseren Kurator:innen und ehrenamtlichen Expert:innen geprüft, validiert und kuratiert. Mit den [Smartphone-Apps von Observation.org](https://at.observation.org/apps/obsidentify/){:target="_blank"} kann jede/r einfach selbst mitforschen.
       background: assets/images/Observation_Edelweiss.jpg
       href: /occurrence/search?datasetKey=c1492854-5d15-40e9-9ee7-24a18ac05112&basisOfRecord=HUMAN_OBSERVATION&view=dashboard&layout=W1t7ImlkIjoidjVpamUiLCJwIjp7ImgiOjQ5M30sInRyYW5zbGF0aW9uIjoic2VhcmNoLnRhYnMubWFwIiwiciI6dHJ1ZSwidCI6Im1hcCJ9LHsiaWQiOiJ1MTNiOCIsInAiOnsidmlldyI6IlRBQkxFIn0sInRyYW5zbGF0aW9uIjoiZGFzaGJvYXJkLnRheGEiLCJ0IjoidGF4YSJ9XSxbeyJpZCI6IjU1MDA3IiwicCI6e30sInQiOiJ5ZWFyIn1dXQ%3D%3D
 
