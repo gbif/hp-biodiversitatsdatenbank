@@ -45,7 +45,7 @@ columns:
       5020 Salzburg<br>
       Österreich<br>
 
-      [Website](https://www.hausdernatur.at/de/)
+      [hausdernatur.at](https://www.hausdernatur.at/de/){:target="_blank"}
     connectIcons: true # Show social icons (defined in _config.yml)
 
     
