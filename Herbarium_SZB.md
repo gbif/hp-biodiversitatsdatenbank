@@ -10,8 +10,8 @@ composition:
   - type: pageMarkdown
   - type: heroImage
     data: Herbarium_SZB.Welt
-#  - type: dashboard
-#    data: Herbarium_SZB.dashboardSZB
+  - type: dashboard
+    data: Herbarium_SZB.dashboardSZB
 ---
 
 
