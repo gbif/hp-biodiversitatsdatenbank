@@ -13,7 +13,7 @@ dashboardSZB:
         - type: equals
           key: taxonKey
           value: 6
-    charts: [year, country, taxa]
+    charts: [year, taxa]
     
 
 
