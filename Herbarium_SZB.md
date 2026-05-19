@@ -8,10 +8,11 @@ height: 50vh
 composition: 
   - type: heroImage
   - type: pageMarkdown
-  - type: heroImage
-    data: Herbarium_SZB.Welt
   - type: dashboard
     data: Herbarium_SZB.dashboardSZB
+  - type: heroImage
+    data: Herbarium_SZB.Welt
+
 ---
 
 
