@@ -95,13 +95,12 @@ var siteConfig = {
         "7a070ba0-bafb-11d9-8e53-b8a03c50a862"
       ]
     },
-    availableTableColumns: ['features', 'commonName', 'basisOfRecord', 'catalogNumber', 'fieldNumber', 'country', 'higherGeography', 'eventDate', 'year', 'recordedBy', 'iucnRedListCategory', 'media', 'dataset', 'invidiualCount', 'preparations', 'locality'], // test if this fits within occurrenceSearch
-    defaultTableColumns: ['features', 'commonName', 'basisOfRecord', 'catalogNumber', 'country', 'higherGeography', 'locality', 'year', 'recordedBy', 'iucnRedListCategory'], // test if this fits within occurrenceSearch
-    "highlightedFilters": [
+    availableTableColumns: ['features', 'commonName', 'verbatimScientificName', 'basisOfRecord', 'catalogNumber', 'fieldNumber', 'country', 'higherGeography', 'locality', 'coordinates', 'eventDate', 'year', 'recordedBy', 'iucnRedListCategory', 'media', 'dataset', 'collectionCode', 'invidiualCount', 'preparations'], // verfuegbare Spalten
+    defaultTableColumns: ['features', 'commonName', 'basisOfRecord', 'catalogNumber', 'country', 'higherGeography', 'locality', 'year', 'recordedBy', 'iucnRedListCategory'], // eingeblendete Spalten
+    "highlightedFilters": [ // sichtbare Filter
       "q",
       "commonName",
       "taxonKey",
-      "verbatimScientificName",
       "basisOfRecord", 
       "catalogNumber",
       "year",
