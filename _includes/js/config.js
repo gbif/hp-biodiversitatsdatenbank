@@ -98,13 +98,16 @@ var siteConfig = {
       ]
     },
     "highlightedFilters": [
+      "q",
       "taxonKey",
       "verbatimScientificName",
-      "institutionKey",
-      "collectionKey",
+      "basisOfRecord", 
       "catalogNumber",
+      "year",
+      "higherGeography",
       "recordedBy",
-      "identifiedBy"
+      "typeStatus",
+      "iucnRedListCategory",
     ],
     "excludedFilters": [
       "occurrenceStatus",
@@ -117,13 +120,13 @@ var siteConfig = {
     ],
     "defaultEnabledTableColumns": [
       "features",
-      "institutionKey",
-      "collectionKey",
+      "basisOfRecord", 
       "catalogNumber",
       "country",
+      "higherGeography",
       "year",
       "recordedBy",
-      "identifiedBy"
+      "iucnRedListCategory",
     ],
     "tabs": [
       "table",
