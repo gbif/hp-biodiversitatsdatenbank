@@ -39,8 +39,6 @@ var siteConfig = {
     // TODO: you should remove types you do not want to use
     "OCCURRENCE",
     "DATASET",
-    "COLLECTION",
-    "INSTITUTION",
     "LITERATURE"
   ],
   "dataHeader": {
@@ -97,6 +95,8 @@ var siteConfig = {
         "7a070ba0-bafb-11d9-8e53-b8a03c50a862"
       ]
     },
+    availableTableColumns: ['features','basisOfRecord','catalogNumber','country','higherGeography','year','recordedBy','iucnRedListCategory'], // test if this fits within occurrenceSearch
+    defaultTableColumns: ['features','basisOfRecord','catalogNumber','country','higherGeography','year','recordedBy','iucnRedListCategory'], // test if this fits within occurrenceSearch
     "highlightedFilters": [
       "q",
       "taxonKey",
@@ -137,9 +137,9 @@ var siteConfig = {
       "download"
     ],
     "mapSettings": {
-      "lat": 47,
-      "lng": 12,
-      "zoom": 50
+      "lat": 47.8,
+      "lng": 13,
+      "zoom": 20
     }
   },
   "collectionSearch": {
