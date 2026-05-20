@@ -64,15 +64,15 @@ var siteConfig = {
   },
   "languages": [
     {
-      "code": "en",
-      "localeCode": "en",
-      "label": "English",
+      "code": "de",
+      "localeCode": "de",
+      "label": "German",
       "default": true,
       "textDirection": "ltr",
-      "iso3LetterCode": "eng",
-      "cmsLocale": "en-GB",
+      "iso3LetterCode": "deu",
+      "cmsLocale": "de",
       "gbifOrgLocalePrefix": "",
-      "mapTileLocale": "en"
+      "mapTileLocale": "de"
     },
     {
       "code": "da",
