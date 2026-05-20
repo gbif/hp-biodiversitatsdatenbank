@@ -126,7 +126,7 @@ var siteConfig = {
       "higherGeography",
       "year",
       "recordedBy",
-      "iucnRedListCategory",
+      "iucnRedListCategory"
     ],
     "tabs": [
       "table",
@@ -145,7 +145,7 @@ var siteConfig = {
   "collectionSearch": {
     excludedFilters: ['country', 'active'],
     // highlightedFilters: ['q', 'type', 'publishingOrg', 'license'],
-    // defaultTableColumns: ['title', 'description', 'publisher', 'type', 'occurrenceCount', 'literatureCount'],
+    defaultTableColumns: ['features','basisOfRecord','catalogNumber','country','higherGeography','year','recordedBy','iucnRedListCategory'],
     scope: {
       // TODO: you should add a scope here if you need search to be limited to a subset
       // search filters have the format {field: [values]}
