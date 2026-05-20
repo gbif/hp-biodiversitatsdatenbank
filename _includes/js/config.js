@@ -107,7 +107,7 @@ var siteConfig = {
       "higherGeography",
       "recordedBy",
       "typeStatus",
-      "iucnRedListCategory",
+      "iucnRedListCategory"
     ],
     "excludedFilters": [
       "occurrenceStatus",
@@ -137,9 +137,9 @@ var siteConfig = {
       "download"
     ],
     "mapSettings": {
-      "lat": 52,
+      "lat": 47,
       "lng": 12,
-      "zoom": 4.911544076366507
+      "zoom": 50
     }
   },
   "collectionSearch": {
