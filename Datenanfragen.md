@@ -10,7 +10,6 @@ composition:
   - type: split1
   - type: split2
 
-
 ---
 
 split1:
