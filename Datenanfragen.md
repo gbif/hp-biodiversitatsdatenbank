@@ -14,7 +14,7 @@ composition:
 
   <p>
     Für kommerzielle Verwendungen (Eingriffsplanungen etc.) kann über das
-    <a href="https://www.hausdernatur.at/files/media_hdn/downloads/biodiversitaetsdatenbank/Haus_der_Natur_Biodiversitaetsdaten_Anfrageformular2020.pdf">
+    <a href="https://www.hausdernatur.at/files/media_hdn/downloads/biodiversitaetsdatenbank/Haus_der_Natur_Biodiversitaetsdaten_Anfrageformular2020.pdf" target="_blank">
     Formular</a>
     auf der Webseite eine offizielle Datenbankanfrage an das Haus der Natur gestellt werden.
     Zu vielen Daten liegen zudem weitere Metadaten (bspw. Bruthinweise) vor,
