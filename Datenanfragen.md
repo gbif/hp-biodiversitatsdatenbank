@@ -16,8 +16,8 @@ composition:
     Für kommerzielle Verwendungen (Eingriffsplanungen etc.) kann über das
     <a href="https://www.hausdernatur.at/files/media_hdn/downloads/biodiversitaetsdatenbank/Haus_der_Natur_Biodiversitaetsdaten_Anfrageformular2020.pdf" target="_blank">
     Formular</a>
-    auf der Webseite eine offizielle Datenbankanfrage an das Haus der Natur gestellt werden.
-    Zu vielen Daten liegen zudem weitere Metadaten (bspw. Bruthinweise) vor,
+    eine offizielle Datenbankanfrage an das Haus der Natur gestellt werden.
+    Zu vielen Daten liegen weitere Metadaten (bspw. Bruthinweise) vor,
     die für naturschutzfachliche Bewertungen notwendig sind, auf GBIF derzeit
     jedoch nicht abgebildet werden können.
     Fundorte ausgewählter (z.B. besonders störungsempfindlicher) Arten werden
@@ -27,7 +27,7 @@ composition:
   </p>
 
   <p>
-    Da die in der Biodiversitätsdatenbank verfügbaren Daten aus opportunistisch
+    Da die in der Biodiversitätsdatenbank verfügbaren Daten vorwiegend aus opportunistisch
     erhobenen Streufunden unterschiedlicher Herkunft bestehen, lassen sich aus
     dem Fehlen von Fundmeldungen keine Rückschlüsse auf das tatsächliche Fehlen
     einer Art ziehen.
