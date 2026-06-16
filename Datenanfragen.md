@@ -7,7 +7,7 @@ overlayColor: transparent
 height: 50vh
 composition:
   - type: heroImage
-  - type: pagemarkdown
+  - type: pageMarkdown
 ---
 
 <div style="max-width: 800px; font-size: 20px; line-height: 1.6; text-align: justify">
