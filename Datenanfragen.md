@@ -7,12 +7,12 @@ overlayColor: transparent
 height: 50vh
 composition: 
   - type: heroImage
-  - type: split1
-  - type: split2
+  - type: split
+  - type: split
 
 ---
 
-split1:
+split:
   reverse: false
   title: ""
   description: |      
@@ -31,7 +31,7 @@ split1:
 
 
 
-split2:
+split:
   reverse: true
   title: ""
   description: |      
