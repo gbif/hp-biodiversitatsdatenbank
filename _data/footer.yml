@@ -55,10 +55,7 @@ columns:
 
   - name: Datennutzung
     description: |
-      Die auf GBIF dargestellten Daten aus der Biodiversitätsdatenbank unterliegen der Lizenz CC-BY-NC. Die Daten dürfen demnach unter Angabe der Quelle (Haus der Natur Salzburg) für nicht kommerzielle Zwecke frei genutzt werden. Eine kommerzielle Nutzung ist nicht zulässig.
-      Für kommerzielle Verwendungen (Eingriffsplanungen etc.) kann über das [Formular](https://www.hausdernatur.at/files/media_hdn/downloads/biodiversitaetsdatenbank/Haus_der_Natur_Biodiversitaetsdaten_Anfrageformular2020.pdf) auf der Webseite eine offizielle Datenbankanfrage an das Haus der Natur gestellt werden. Zu vielen Daten liegen zudem weitere Metadaten (bspw. Bruthinweise) vor, die für naturschutzfachliche Bewertungen notwendig sind, auf GBIF derzeit jedoch nicht abgebildet werden können. Fundorte ausgewählter (z.B. besonders störungsempfindlicher) Arten werden darüber hinaus nur mit grober Unschärfe (ca. 1 km) nach GBIF geliefert. Über eine offizielle Datenbankabfrage können mehr Metadaten und genauere Fundpunkte bereitgestellt werden.
-      Da die in der Biodiversitätsdatenbank verfügbaren Daten aus opportunistisch erhobenen Streufunden unterschiedlicher Herkunft bestehen, lassen sich aus dem Fehlen von Fundmeldungen keine Rückschlüsse auf das tatsächliche Fehlen einer Art ziehen. Die Datenbankabfrage stellt im naturschutzfachlichen Kontext ein wertvolles Instrument zur frühzeitigen Identifikation potenzieller Vorkommen geschützter Arten dar, kann jedoch eine gezielte Kartierung im Gelände nicht ersetzen.
-
+      Die auf GBIF dargestellten Daten aus der Biodiversitätsdatenbank unterliegen der Lizenz CC-BY-NC. Die Daten dürfen für nicht-kommerzielle Zwecke unter Angabe der Quelle (Haus der Natur Salzburg) frei genutzt werden. Für kommerzielle Nutzungen oder weitere Fragen siehe [Datennutzung](
 
     
   # EXAMPLE - just leave this commented out at the bottom of the file for future reference
