@@ -14,8 +14,8 @@ composition:
 <div style="max-width: 800px; font-size: 20px; line-height: 1.6;text-align: justify">
 
   <p>
-    Für kommerzielle Verwendungen (Eingriffsplanungen etc.) kann über das [Formular]([https://www.hausdernatur.at/files/media_hdn/downloads/biodiversitaetsdatenbank
-    /Haus_der_Natur_Biodiversitaetsdaten_Anfrageformular2020.pdf]) auf der Webseite eine offizielle Datenbankanfrage an das Haus der Natur gestellt werden. Zu vielen Daten liegen zudem weitere 
+    Für kommerzielle Verwendungen (Eingriffsplanungen etc.) kann über das [Formular](https://www.hausdernatur.at/files/media_hdn/downloads/biodiversitaetsdatenbank
+    /Haus_der_Natur_Biodiversitaetsdaten_Anfrageformular2020.pdf) auf der Webseite eine offizielle Datenbankanfrage an das Haus der Natur gestellt werden. Zu vielen Daten liegen zudem weitere 
     Metadaten (bspw. Bruthinweise) vor, die für naturschutzfachliche Bewertungen notwendig sind, auf GBIF derzeit jedoch nicht abgebildet werden können. Fundorte ausgewählter (z.B. besonders     
     störungsempfindlicher) Arten werden darüber hinaus nur mit grober Unschärfe (ca. 1 km) nach GBIF geliefert. Über eine offizielle Datenbankabfrage können mehr Metadaten und genauere Fundpunkte bereitgestellt 
     werden.
