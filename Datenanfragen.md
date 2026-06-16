@@ -1,7 +1,7 @@
 ---
 layout: compose
 title: Datenanfragen Biodiversitätsdatenbank
-background: assets/logos/HdN-Logo-rgb.png
+background: assets/images/AmphibiaKarte_GBIF.png
 imagelicense: "© Haus der Natur"
 overlayColor: transparent
 height: 50vh
