@@ -2,7 +2,7 @@
 layout: compose
 title: Datenanfragen Biodiversitätsdatenbank
 background: assets/logos/HdN-Logo-rgb.png
-imagelicense: "@ Haus der Natur"
+imagelicense: "© Haus der Natur"
 overlayColor: transparent
 height: 50vh
 composition:
