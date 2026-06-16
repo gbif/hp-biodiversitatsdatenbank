@@ -20,7 +20,6 @@ composition:
     Zu vielen Daten liegen zudem weitere Metadaten (bspw. Bruthinweise) vor,
     die für naturschutzfachliche Bewertungen notwendig sind, auf GBIF derzeit
     jedoch nicht abgebildet werden können.
-
     Fundorte ausgewählter (z.B. besonders störungsempfindlicher) Arten werden
     darüber hinaus nur mit grober Unschärfe (ca. 1 km) nach GBIF geliefert.
     Über eine offizielle Datenbankabfrage können mehr Metadaten und genauere
@@ -32,7 +31,6 @@ composition:
     erhobenen Streufunden unterschiedlicher Herkunft bestehen, lassen sich aus
     dem Fehlen von Fundmeldungen keine Rückschlüsse auf das tatsächliche Fehlen
     einer Art ziehen.
-
     Die Datenbankabfrage stellt im naturschutzfachlichen Kontext ein wertvolles
     Instrument zur frühzeitigen Identifikation potenzieller Vorkommen geschützter
     Arten dar, kann jedoch eine gezielte Kartierung im Gelände nicht ersetzen.
@@ -40,3 +38,4 @@ composition:
 
 </div>
 
+---
