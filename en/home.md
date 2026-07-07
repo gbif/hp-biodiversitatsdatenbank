@@ -17,14 +17,14 @@ permalink: /en
 composition:
   - type: heroImage
   - type: stats
-    data: home.stats
+    data: en.home.stats
 #  - type: pageMarkdown
 #    data: home.mdtext
   - type: features
-    data: home.features
+    data: en.home.features
 #  - type: postHeader
 #    data: home.postHeader
   - type: heroVideo
-    data: home.video
+    data: en.home.video
     
 ---
