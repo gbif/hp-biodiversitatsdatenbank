@@ -51,12 +51,12 @@ columns:
     
   - name: Code
     description: |
-      Der [Code](https://github.com/gbif/hp-biodiversitatsdatenbank/tree/master) dieser Website ist frei verfügbar und unterliegt der Apache-2.0-Lizenz.
+      The [Code](https://github.com/gbif/hp-biodiversitatsdatenbank/tree/master) for this website is freely available and is subject to the Apache 2.0 licence.
 
   - name: Data use
     description: |
-      Die auf GBIF dargestellten Daten aus der Biodiversitätsdatenbank unterliegen der Lizenz CC-BY-NC. Sie dürfen für nicht-kommerzielle Zwecke unter Angabe der Quelle (Haus der Natur Salzburg) frei genutzt werden. 
-      Weitere Informationen finden Sie unter [Datenanfragen](/Datenanfragen).
+      The data from the biodiversity database displayed on GBIF is subject to the CC-BY-NC licence. It may be used freely for non-commercial purposes, with reference to the source (Haus der Natur Salzburg). 
+      Further information can be found under [Datenanfragen](/Datenanfragen).
 
     
   # EXAMPLE - just leave this commented out at the bottom of the file for future reference
