@@ -1,5 +1,6 @@
 ---
 layout: compose
+lang: de
 title: Herbarium SZB am Haus der Natur
 background: assets/images/Herbarium.jpg
 imagelicense: © Luigi Caputo
