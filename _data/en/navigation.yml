@@ -2,24 +2,24 @@
 # You should create one of these files for each language you support. E.g. /_data/es/navigation.yml for the spanish version of the menu
 # Links listed below will be included in your site's navbar (navigation at the top)
 
-- text: Datensätze
+- text: Datasets
   menu: 
   - text: Haus der Natur
     href: /dataset/c1492854-5d15-40e9-9ee7-24a18ac05112
-  - text: Nationalpark Hohe Tauern
+  - text: Hohe Tauern National Park
     href: /dataset/c7730a08-74b4-48cd-80a7-831a19ac660d
   - text: Naturschutzbund
     href: /dataset/27a8d03b-4a5a-4bda-8e22-1ac0ac2dc6fc
 
-- text: Sammlungen
+- text: Collections
   menu:
   - text: Herbarium SZB
     href: en/Herbarium_SZB
-  - text: Entomologische Sammlung
+  - text: Entomological collection
     href: occurrence/search?datasetKey=c1492854-5d15-40e9-9ee7-24a18ac05112&basisOfRecord=PRESERVED_SPECIMEN&taxonKey=216&view=dashboard&layout=W1t7ImlkIjoidjVpamUiLCJwIjp7ImgiOjQ5M30sInRyYW5zbGF0aW9uIjoic2VhcmNoLnRhYnMubWFwIiwiciI6dHJ1ZSwidCI6Im1hcCJ9LHsiaWQiOiJ1MTNiOCIsInAiOnsidmlldyI6IlRBQkxFIn0sInRyYW5zbGF0aW9uIjoiZGFzaGJvYXJkLnRheGEiLCJ0IjoidGF4YSJ9XSxbeyJpZCI6ImpmbTVkIiwicCI6eyJoIjo0OTN9LCJ0cmFuc2xhdGlvbiI6InNlYXJjaC50YWJzLmdhbGxlcnkiLCJyIjp0cnVlLCJ0IjoiZ2FsbGVyeSJ9LHsiaWQiOiI1NTAwNyIsInAiOnt9LCJ0IjoieWVhciJ9XV0%3D
-  - text: Molluskensammlung
+  - text: Malacological collection
     href: occurrence/search?datasetKey=c1492854-5d15-40e9-9ee7-24a18ac05112&taxonKey=52&basisOfRecord=PRESERVED_SPECIMEN&view=dashboard&layout=W1t7ImlkIjoidjVpamUiLCJwIjp7ImgiOjQ5M30sInRyYW5zbGF0aW9uIjoic2VhcmNoLnRhYnMubWFwIiwiciI6dHJ1ZSwidCI6Im1hcCJ9LHsiaWQiOiJ1MTNiOCIsInAiOnsidmlldyI6IlRBQkxFIn0sInRyYW5zbGF0aW9uIjoiZGFzaGJvYXJkLnRheGEiLCJ0IjoidGF4YSJ9XSxbeyJpZCI6ImpmbTVkIiwicCI6eyJoIjo0OTN9LCJ0cmFuc2xhdGlvbiI6InNlYXJjaC50YWJzLmdhbGxlcnkiLCJyIjp0cnVlLCJ0IjoiZ2FsbGVyeSJ9LHsiaWQiOiI1NTAwNyIsInAiOnt9LCJ0IjoieWVhciJ9XV0%3D
-  - text: Wirbeltiersammlung
+  - text: Vertebrate collection
     href: occurrence/search?datasetKey=c1492854-5d15-40e9-9ee7-24a18ac05112&basisOfRecord=PRESERVED_SPECIMEN&view=dashboard&layout=W1t7ImlkIjoidjVpamUiLCJwIjp7ImgiOjQ5M30sInRyYW5zbGF0aW9uIjoic2VhcmNoLnRhYnMubWFwIiwiciI6dHJ1ZSwidCI6Im1hcCJ9LHsiaWQiOiJ1MTNiOCIsInAiOnsidmlldyI6IlRBQkxFIn0sInRyYW5zbGF0aW9uIjoiZGFzaGJvYXJkLnRheGEiLCJ0IjoidGF4YSJ9XSxbeyJpZCI6ImpmbTVkIiwicCI6eyJoIjo0OTN9LCJ0cmFuc2xhdGlvbiI6InNlYXJjaC50YWJzLmdhbGxlcnkiLCJyIjp0cnVlLCJ0IjoiZ2FsbGVyeSJ9LHsiaWQiOiI1NTAwNyIsInAiOnt9LCJ0IjoieWVhciJ9XV0%3D&taxonKey=44
 #  - text: Literaturdaten
 #    href: occurrence/search?datasetKey=c1492854-5d15-40e9-9ee7-24a18ac05112&basisOfRecord=MATERIAL_CITATION&view=dashboard&layout=W1t7ImlkIjoidjVpamUiLCJwIjp7ImgiOjQ5M30sInRyYW5zbGF0aW9uIjoic2VhcmNoLnRhYnMubWFwIiwiciI6dHJ1ZSwidCI6Im1hcCJ9LHsiaWQiOiJ1MTNiOCIsInAiOnsidmlldyI6IlRBQkxFIn0sInRyYW5zbGF0aW9uIjoiZGFzaGJvYXJkLnRheGEiLCJ0IjoidGF4YSJ9XSxbeyJpZCI6IjU1MDA3IiwicCI6e30sInQiOiJ5ZWFyIn1dXQ%3D%3D
@@ -28,10 +28,10 @@
 
 - text: Links
   menu:
-  - text: Veranstaltungen
-    href: https://www.hausdernatur.at/de/veranstaltungen.html
-  - text: Mitforschen
+  - text: Events
+    href: https://www.hausdernatur.at/en/events.html
+  - text: Participate
     href: https://www.hausdernatur.at/de/observation-org.html
-  - text: Datenanfragen
+  - text: Data requests
     href: en/Datenanfragen
 
