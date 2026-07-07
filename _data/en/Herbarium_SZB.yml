@@ -1,1 +1,28 @@
+dashboardSZB:
+  title:
+  config: 
+    predicate:
+      type: and
+      predicates:
+        - type: equals
+          key: publishingOrg
+          value: 7a070ba0-bafb-11d9-8e53-b8a03c50a862 
+        - type: equals
+          key: basisOfRecord
+          value: PRESERVED_SPECIMEN
+        - type: equals
+          key: taxonKey
+          value: 6
+    charts: [year, taxa]
+    
 
+
+Welt:
+  background: /assets/vectors/ChatGPT_Weltkarte_clip.png
+  imageLicense: Haus der Natur - created using ChatGPT
+  height: 50vh
+  overlayColor: transparent
+  cta:
+    - text: Explore data
+      href: https://biodiversitatsdatenbank.hp.gbif-staging.org/occurrence/search?datasetKey=c1492854-5d15-40e9-9ee7-24a18ac05112&basisOfRecord=PRESERVED_SPECIMEN&taxonKey=6&view=dashboard&layout=W1t7ImlkIjoidjVpamUiLCJwIjp7ImgiOjQ5M30sInRyYW5zbGF0aW9uIjoic2VhcmNoLnRhYnMubWFwIiwiciI6dHJ1ZSwidCI6Im1hcCJ9LHsiaWQiOiJ1MTNiOCIsInAiOnsidmlldyI6IlRBQkxFIn0sInRyYW5zbGF0aW9uIjoiZGFzaGJvYXJkLnRheGEiLCJ0IjoidGF4YSJ9XSxbeyJpZCI6ImpmbTVkIiwicCI6eyJoIjo0OTN9LCJ0cmFuc2xhdGlvbiI6InNlYXJjaC50YWJzLmdhbGxlcnkiLCJyIjp0cnVlLCJ0IjoiZ2FsbGVyeSJ9LHsiaWQiOiI1NTAwNyIsInAiOnt9LCJ0IjoieWVhciJ9XV0%3D
+      isPrimary: true
