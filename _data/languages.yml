@@ -2,11 +2,11 @@
 
 de:
   label: German
-  icon: 🇦🇹
+  icon: assets/vectors/ChatGPT_deutsch.png
   archive_permalink: /post/
 en:
   label: English
-  icon: 🇬🇧
+  icon: assets/vectors/ChatGPT_Englisch.png
   archive_permalink: /en/post/
 da:
   label: Dansk
