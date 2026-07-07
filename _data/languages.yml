@@ -6,6 +6,7 @@ de:
   archive_permalink: /post/
 en:
   label: English
+  icon: 🇬🇧
   archive_permalink: /en/post/
 da:
   label: Dansk
