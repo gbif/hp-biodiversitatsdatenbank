@@ -11,9 +11,9 @@ composition:
   - type: heroImage
   - type: pageMarkdown
   - type: dashboard
-    data: en/Herbarium_SZB.dashboardSZB
+    data: _data/en/Herbarium_SZB.dashboardSZB
   - type: heroImage
-    data: en/Herbarium_SZB.Welt
+    data: _data/en/Herbarium_SZB.Welt
 
 ---
 
