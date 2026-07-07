@@ -1,1 +1,106 @@
+# Startseite - Statistiken
+stats:
+  klass: contentTypesStat
+  features:
+    - title: <span data-ajax-url="https://api.gbif.org/v1/occurrence/search?limit=0&publishingOrg=7a070ba0-bafb-11d9-8e53-b8a03c50a862"></span>
+      description: "Occurrences"
+      background:  assets/vectors/ChatGPT_Beobachtungen.png
+      #imageLicense: "{{ site.data.images.specimens.caption }}"
+      href: "/occurrence/search?view=map"
+        
+    - title: <span data-ajax-url="https://api.gbif.org/v1/occurrence/search?limit=0&publishingOrg=7a070ba0-bafb-11d9-8e53-b8a03c50a862&basisOfRecord=PRESERVED_SPECIMEN"></span>
+      description: "Preserved Specimen"
+      background:  assets/vectors/ChatGPT_Belege.png
+      #imageLicense: "{{ site.data.images.collections.caption }}"
+      href: "/occurrence/search?view=map&basisOfRecord=PRESERVED_SPECIMEN"
+
+    - title: <span data-ajax-url="https://api.gbif.org/v1/occurrence/search?limit=0&publishingOrg=7a070ba0-bafb-11d9-8e53-b8a03c50a862&mediatype=still image"></span>
+      description: "Digitised specimen"
+      background: assets/vectors/ChatGPT_Digitalisate.png
+      #imageLicense: "{{ site.data.images.collections.caption }}"
+      href: "/occurrence/search?view=gallery&mediaType=StillImage"
+
+    - title: <span data-ajax-path="data.occurrenceSearch.cardinality.speciesKey" data-ajax-url="https://graphql.gbif.org/graphql?query=%7BoccurrenceSearch%28predicate%3A%7Btype%3Aequals%2Ckey%3A%22publishingOrg%22%2Cvalue%3A%227a070ba0-bafb-11d9-8e53-b8a03c50a862%22%7D%29%7Bcardinality%7BspeciesKey%7D%7D%7D"></span>
+      description: "Taxa"
+      background: assets/vectors/ChatGPT_Taxa.png
+      #imageLicense: "{{ site.data.images.collections.caption }}"
+      href: "occurrence/search?view=dashboard&layout=W1t7ImlkIjoidTEzYjgiLCJwIjp7InZpZXciOiJUQUJMRSJ9LCJ0cmFuc2xhdGlvbiI6ImRhc2hib2FyZC50YXhhIiwidCI6InRheGEifV0sW11d"
+
+    - title: <span data-ajax-url="https://api.gbif.org/v1/literature/search?contentType=literature&publishingOrganizationKey=7a070ba0-bafb-11d9-8e53-b8a03c50a862"></span>
+      description: "Citations "
+      background: assets/vectors/ChatGPT_Zitate.png
+      #imageLicense: "{{ site.data.images.collections.caption }}"
+      href: "/literature/search?publishingOrganizationKey=7a070ba0-bafb-11d9-8e53-b8a03c50a862"
+
+# Startseite - Beschreibungstext
+
+mdtext: |
+  The biodiversity database at the Haus der Natur has been collecting, managing and making available data on the distribution of flora and fauna from a wide variety of sources since 2001.
+  Most data is within the federal state of Salzburg and the Hohe Tauern National Park area.  
+  Furthermore the biodiversity database  manages the museum’s biological collections.
+  Since 2004, Haus der Natur has also been a data provider for the Global Biodiversity Information Facility (GBIF).
+
+# Startseite - Features
+
+features:
+  title: Data & Collections
+  description: Discover the biological data at Haus der Natur
+
+  features:
+    - title: Entomological collection
+      description: The entomological collection contains approximately 500,000 insect specimens, many of which were collected in the province of Salzburg. They represent an irreplaceable archive of immeasurable value for both nature conservation and science. Discover this collection here!
+      background: assets/images/20221201_Carabus_splendens_HNS-Coleopt-3375.jpg
+      href: /occurrence/search?datasetKey=c1492854-5d15-40e9-9ee7-24a18ac05112&basisOfRecord=PRESERVED_SPECIMEN&taxonKey=216&view=dashboard&layout=W1t7ImlkIjoidjVpamUiLCJwIjp7ImgiOjQ5M30sInRyYW5zbGF0aW9uIjoic2VhcmNoLnRhYnMubWFwIiwiciI6dHJ1ZSwidCI6Im1hcCJ9LHsiaWQiOiJ1MTNiOCIsInAiOnsidmlldyI6IlRBQkxFIn0sInRyYW5zbGF0aW9uIjoiZGFzaGJvYXJkLnRheGEiLCJ0IjoidGF4YSJ9XSxbeyJpZCI6ImpmbTVkIiwicCI6eyJoIjo0OTN9LCJ0cmFuc2xhdGlvbiI6InNlYXJjaC50YWJzLmdhbGxlcnkiLCJyIjp0cnVlLCJ0IjoiZ2FsbGVyeSJ9LHsiaWQiOiI1NTAwNyIsInAiOnt9LCJ0IjoieWVhciJ9XV0%3D
+  
+    - title: Malacological collection
+      description: The malacological collection houses around 55,000 specimen series of snails and mussels from all over the world. The collection focuses on Austria and the federal state of Salzburg. For more information contact the [malcological working group](https://www.hausdernatur.at/de/malakologie.html){:target="_blank"}.
+      background: assets/images/HNS-Malak-M_Sp05130_b.jpg
+      href: /occurrence/search?datasetKey=c1492854-5d15-40e9-9ee7-24a18ac05112&taxonKey=52&basisOfRecord=PRESERVED_SPECIMEN&view=dashboard&layout=W1t7ImlkIjoidjVpamUiLCJwIjp7ImgiOjQ5M30sInRyYW5zbGF0aW9uIjoic2VhcmNoLnRhYnMubWFwIiwiciI6dHJ1ZSwidCI6Im1hcCJ9LHsiaWQiOiJ1MTNiOCIsInAiOnsidmlldyI6IlRBQkxFIn0sInRyYW5zbGF0aW9uIjoiZGFzaGJvYXJkLnRheGEiLCJ0IjoidGF4YSJ9XSxbeyJpZCI6ImpmbTVkIiwicCI6eyJoIjo0OTN9LCJ0cmFuc2xhdGlvbiI6InNlYXJjaC50YWJzLmdhbGxlcnkiLCJyIjp0cnVlLCJ0IjoiZ2FsbGVyeSJ9LHsiaWQiOiI1NTAwNyIsInAiOnt9LCJ0IjoieWVhciJ9XV0%3D
+
+    - title: Herbarium SZB
+      description: The botanical collections include over 200,000 specimens of dried plants and fungi. They represent an irreplaceable archive, particularly for the province of Salzburg. The oldest archived flowering plants were pressed over 400 years ago.
+      background: assets/images/Herbarium (2)_quer_Luigi_Caputo.jpg
+      href: /Herbarium_SZB
+
+    - title: Vertebrate collection
+      description: The vertebrate collection at Haus der Natur contains around 16,000 specimens, mainly birds and mammals, but also amphibians, reptiles and fish. The vertebrate collection comprises dermoplasts, skins, alcohol-preserved specimens, skeletons, bird feathers, trophies, furs and a collection of eggs from both living and extinct species. In addition to providing scientific documentation of Salzburg, the dermoplasts in particular are also used for exhibition and educational purposes within the museum.
+      background: assets/images/HNS-Aves-B-0340_01.jpg
+      href: /occurrence/search?datasetKey=c1492854-5d15-40e9-9ee7-24a18ac05112&basisOfRecord=PRESERVED_SPECIMEN&view=dashboard&layout=W1t7ImlkIjoidjVpamUiLCJwIjp7ImgiOjQ5M30sInRyYW5zbGF0aW9uIjoic2VhcmNoLnRhYnMubWFwIiwiciI6dHJ1ZSwidCI6Im1hcCJ9LHsiaWQiOiJ1MTNiOCIsInAiOnsidmlldyI6IlRBQkxFIn0sInRyYW5zbGF0aW9uIjoiZGFzaGJvYXJkLnRheGEiLCJ0IjoidGF4YSJ9XSxbeyJpZCI6ImpmbTVkIiwicCI6eyJoIjo0OTN9LCJ0cmFuc2xhdGlvbiI6InNlYXJjaC50YWJzLmdhbGxlcnkiLCJyIjp0cnVlLCJ0IjoiZ2FsbGVyeSJ9LHsiaWQiOiI1NTAwNyIsInAiOnt9LCJ0IjoieWVhciJ9XV0%3D&taxonKey=44
+
+    - title: Literature data
+      description: Distribution data from published and secondary literature are continuously imported into the biodiversity database. These include scientific research papers, as well as project reports and data from nature conservation expert reports. The aim is to ensure that this data remains available in the long term.
+      background: assets/images/Bibliothek.jpg
+      href: /occurrence/search?datasetKey=c1492854-5d15-40e9-9ee7-24a18ac05112&basisOfRecord=MATERIAL_CITATION&view=dashboard&layout=W1t7ImlkIjoidjVpamUiLCJwIjp7ImgiOjQ5M30sInRyYW5zbGF0aW9uIjoic2VhcmNoLnRhYnMubWFwIiwiciI6dHJ1ZSwidCI6Im1hcCJ9LHsiaWQiOiJ1MTNiOCIsInAiOnsidmlldyI6IlRBQkxFIn0sInRyYW5zbGF0aW9uIjoiZGFzaGJvYXJkLnRheGEiLCJ0IjoidGF4YSJ9XSxbeyJpZCI6IjU1MDA3IiwicCI6e30sInQiOiJ5ZWFyIn1dXQ%3D%3D
+
+    - title: Citizen Science & Mapping
+      description: The biodiversity database also includes nature observations. These come primarily from citizen scientists and members of the [volunteer working groups](https://www.hausdernatur.at/de/arbeitsgruppen.html){:target=‘_blank’} at Haus der Natur. The observations are checked, validated and curated by our curators and volunteer experts. Using the [Observation.org smartphone apps](https://observation.org/apps/obsidentify/){:target=‘_blank’}, anyone can easily take part in the research themselves.
+      background: assets/images/Observation_Edelweiss.jpg
+      href: /occurrence/search?datasetKey=c1492854-5d15-40e9-9ee7-24a18ac05112&basisOfRecord=HUMAN_OBSERVATION&view=dashboard&layout=W1t7ImlkIjoidjVpamUiLCJwIjp7ImgiOjQ5M30sInRyYW5zbGF0aW9uIjoic2VhcmNoLnRhYnMubWFwIiwiciI6dHJ1ZSwidCI6Im1hcCJ9LHsiaWQiOiJ1MTNiOCIsInAiOnsidmlldyI6IlRBQkxFIn0sInRyYW5zbGF0aW9uIjoiZGFzaGJvYXJkLnRheGEiLCJ0IjoidGF4YSJ9XSxbeyJpZCI6IjU1MDA3IiwicCI6e30sInQiOiJ5ZWFyIn1dXQ%3D%3D
+
+
+# Startseite - Video über Foto
+
+#postHeader:
+#  title: "Video: Sammlungsarbeit"
+#  background: assets/images/Clip_Sammlung(1 von 1).jpg
+#  cta:
+#    - text: ▶ Auf Vimeo ansehen
+#      href: https://vimeo.com/1181500072
+#      isPrimary: true
+
+
+
+ # Startseite - Video Einbindung
+
+video:
+  align: right
+  title: "Video: Collections at Haus der Natur"
+  description: >
+    <div class="video-section">
+      <video class="video-player" controls preload="metadata">
+        <source src="https://gbif.hausdernatur.at/hdn_image.mp4" type="video/mp4">
+        Dein Browser unterstützt das Video-Tag nicht.
+      </video>
+    </div>
+  imageLicense: "Video by Haus der Natur Salzburg"
 
