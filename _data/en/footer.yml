@@ -1,1 +1,82 @@
+# Footer configuration
+# You should create one of these files for each language you support. E.g. /_data/es/footer.yml for the spanish version of the footer
+# Footer content is organized in columns.
+# You can also add a small print license statement at the bottom.
 
+# Columns (the more you add, the narrower they will be)
+columns:
+
+  - name: Partner organisations
+    description: |
+      <div class="partner-logos">
+
+        <a href="https://www.salzburg.gv.at/" target="_blank">
+          <img src="/assets/logos/logo_land_salzburg.png" alt="Land Salzburg">
+        </a>
+
+        <a href="https://hohetauern.at/de/" target="_blank">
+          <img src="/assets/logos/Nationalpark_Hohe_Tauern_logo.svg.png" alt="Nationalpark Hohe Tauern">
+        </a>
+
+        <a href="https://www.gbif.at" target="_blank">
+          <img src="/assets/logos/GBIF-Austria_Logo_RGB_Nachbau_Blau.jpg" alt="GBIF Austria">
+        </a>
+
+
+        <a href="https://osca.science/" target="_blank">
+          <img src="/assets/logos/OSCA_logo_clip.png" alt="OSCA">
+        </a>
+
+        <a href="https://at.observation.org/" target="_blank">
+          <img src="/assets/logos/observation-logo2.png" alt="Observation.org">
+        </a>
+
+      </div>
+      
+      
+  - name: Contact
+    description: |
+      <a href="https://www.hausdernatur.at/" target="_blank">
+        <img src="/assets/logos/HdN-Logo-rgb.png" alt="Haus der Natur" style="width:70%;">
+      </a>
+      
+      Haus der Natur<br>
+      Museumsplatz 5<br>
+      5020 Salzburg<br>
+      Österreich<br>
+
+      [hausdernatur.at](https://www.hausdernatur.at/de/){:target="_blank"}
+    connectIcons: true # Show social icons (defined in _config.yml)
+
+    
+  - name: Code
+    description: |
+      Der [Code](https://github.com/gbif/hp-biodiversitatsdatenbank/tree/master) dieser Website ist frei verfügbar und unterliegt der Apache-2.0-Lizenz.
+
+  - name: Data use
+    description: |
+      Die auf GBIF dargestellten Daten aus der Biodiversitätsdatenbank unterliegen der Lizenz CC-BY-NC. Sie dürfen für nicht-kommerzielle Zwecke unter Angabe der Quelle (Haus der Natur Salzburg) frei genutzt werden. 
+      Weitere Informationen finden Sie unter [Datenanfragen](/Datenanfragen).
+
+    
+  # EXAMPLE - just leave this commented out at the bottom of the file for future reference
+  # You can add as many columns as you want
+
+  #columns:
+  #- name: Group name
+  #  description: |
+  #    An optional description. Can be markdown
+  #  links: # optional as well
+  #  - text: link title
+  #    href: http://example.com
+  #  - text: link title 2
+  #    href: http://example2.com
+  #  connectIcons: true # optional - show social icons (defined in _config.yml)
+
+
+# Below is configuration for a small print license statement to add at the bottom of the footer. Can be Markdown
+# Will be prefixed by "© {{ site.author }}" if defined in _config.yml
+# Will be postfixed by "Powered by GBIF"
+# (Disabled by default, remove the '#' lines on the following two lines to enable.)
+license: >
+  Content on this site is licensed under an [Creative Commons Attribution 4.0 License](https://creativecommons.org/licenses/by/4.0/).
