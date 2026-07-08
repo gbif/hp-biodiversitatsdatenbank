@@ -30,6 +30,7 @@ composition:
     The herbarium encompasses the collections of all the province’s leading botanists and thus provides reference material about the flora of the province and for scientific publications. Today the majority of        ferns and flowering plants, mosses, lichens, and mushrooms are well-prepared and stored under constant conditions. 
     For most of the approximately 6,000 fungi in the collection photographs, as well as detailed descriptions and drawings of their microscopic characteristics have been recorded.
     In addition, a significant portion of the specimen collection is now included in a digital database.
+    
   </p>
   
 
