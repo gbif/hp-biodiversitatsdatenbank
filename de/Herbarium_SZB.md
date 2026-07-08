@@ -40,17 +40,17 @@ composition:
 
 
 <div style="display: flex; gap: 10px;">
-  <img src="/assets/images/SZB-MB-00162_clip.jpg" alt="Cypripedium calceolus" style="width: 33%;">
-  <img src="/assets/images/SZB-503045.jpg" alt="Beispielbeleg 2" style="width: 33%;">
-  <img src="/assets/images/Herbar_SZB-MB-00219_clipped.jpg" alt="Beispielbeleg 3" style="width: 33%;">
+  <img src="/assets/images/Herbarium/SZB-MB-00162_clip.jpg" alt="Cypripedium calceolus" style="width: 33%;">
+  <img src="/assets/images/Herbarium/SZB-503045.jpg" alt="Beispielbeleg 2" style="width: 33%;">
+  <img src="/assets/images/Herbarium/Herbar_SZB-MB-00219_clipped.jpg" alt="Beispielbeleg 3" style="width: 33%;">
 </div>
 
 ---
 
 <div style="display: flex; gap: 10px;">
-  <img src="/assets/images/SZB-83146.jpg" alt="Beispielbild 4" style="width: 33%;">
-  <img src="/assets/images/SZB-MB-00230.jpg" alt="Beispielbeleg 5" style="width: 33%;">
-  <img src="/assets/images/SZB-80240.jpg" alt="Beispielbeleg 6" style="width: 33%;">
+  <img src="/assets/images/Herbarium/SZB-83146.jpg" alt="Beispielbild 4" style="width: 33%;">
+  <img src="/assets/images/Herbarium/SZB-MB-00230.jpg" alt="Beispielbeleg 5" style="width: 33%;">
+  <img src="/assets/images/Herbarium/SZB-80240.jpg" alt="Beispielbeleg 6" style="width: 33%;">
 </div>
 
 ---
