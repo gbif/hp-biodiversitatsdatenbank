@@ -44,7 +44,7 @@ mdtext: |
 
 features:
   title: Data & Collections
-  description: Discover the biological data at Haus der Natur
+  description: Discover the biological data at Haus der Natur <br> <i>This website is currently under construction.</i>
 
   features:
     - title: Entomological collection
