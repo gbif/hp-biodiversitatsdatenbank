@@ -32,7 +32,7 @@ composition:
     Heute ist der Großteil der Farn- und Blütenpflanzen, Moose, Flechten und Pilze gut präpariert und wird bei konstanten Bedingungen gelagert. 
     Für die etwa 6.000 in der Sammlung befindlichen Pilze liegen zum größten Teil Standortfotos bzw. Studioaufnahmen, ausführliche Beschreibungen und Zeichnungen der mikroskopischen Merkmale vor. 
     Darüber hinaus ist mittlerweile ein wesentlicher Teil der Belegsammlung der Pflanzen in einer digitalen Datenbank enthalten, die Pilze sind vollständig erfasst.
-  <br>
+    <br>
   </p>
   
 
