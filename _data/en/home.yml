@@ -49,32 +49,32 @@ features:
   features:
     - title: Entomological collection
       description: The entomological collection contains approximately 500,000 insect specimens, many of which were collected in the province of Salzburg. They represent an irreplaceable archive of immeasurable value for both nature conservation and science. Discover this collection here!
-      background: assets/images/20221201_Carabus_splendens_HNS-Coleopt-3375.jpg
+      background: assets/images/main_page/20221201_Carabus_splendens_HNS-Coleopt-3375.jpg
       href: /occurrence/search?datasetKey=c1492854-5d15-40e9-9ee7-24a18ac05112&basisOfRecord=PRESERVED_SPECIMEN&taxonKey=216&view=dashboard&layout=W1t7ImlkIjoidjVpamUiLCJwIjp7ImgiOjQ5M30sInRyYW5zbGF0aW9uIjoic2VhcmNoLnRhYnMubWFwIiwiciI6dHJ1ZSwidCI6Im1hcCJ9LHsiaWQiOiJ1MTNiOCIsInAiOnsidmlldyI6IlRBQkxFIn0sInRyYW5zbGF0aW9uIjoiZGFzaGJvYXJkLnRheGEiLCJ0IjoidGF4YSJ9XSxbeyJpZCI6ImpmbTVkIiwicCI6eyJoIjo0OTN9LCJ0cmFuc2xhdGlvbiI6InNlYXJjaC50YWJzLmdhbGxlcnkiLCJyIjp0cnVlLCJ0IjoiZ2FsbGVyeSJ9LHsiaWQiOiI1NTAwNyIsInAiOnt9LCJ0IjoieWVhciJ9XV0%3D
   
     - title: Malacological collection
       description: The malacological collection houses around 55,000 specimen series of snails and mussels from all over the world. The collection focuses on Austria and the federal state of Salzburg. For more information contact the [malcological working group](https://www.hausdernatur.at/de/malakologie.html){:target="_blank"}.
-      background: assets/images/HNS-Malak-M_Sp05130_b.jpg
+      background: assets/images/main_page/HNS-Malak-M_Sp05130_b.jpg
       href: /occurrence/search?datasetKey=c1492854-5d15-40e9-9ee7-24a18ac05112&taxonKey=52&basisOfRecord=PRESERVED_SPECIMEN&view=dashboard&layout=W1t7ImlkIjoidjVpamUiLCJwIjp7ImgiOjQ5M30sInRyYW5zbGF0aW9uIjoic2VhcmNoLnRhYnMubWFwIiwiciI6dHJ1ZSwidCI6Im1hcCJ9LHsiaWQiOiJ1MTNiOCIsInAiOnsidmlldyI6IlRBQkxFIn0sInRyYW5zbGF0aW9uIjoiZGFzaGJvYXJkLnRheGEiLCJ0IjoidGF4YSJ9XSxbeyJpZCI6ImpmbTVkIiwicCI6eyJoIjo0OTN9LCJ0cmFuc2xhdGlvbiI6InNlYXJjaC50YWJzLmdhbGxlcnkiLCJyIjp0cnVlLCJ0IjoiZ2FsbGVyeSJ9LHsiaWQiOiI1NTAwNyIsInAiOnt9LCJ0IjoieWVhciJ9XV0%3D
 
     - title: Herbarium SZB
       description: The botanical collections include over 200,000 specimens of dried plants and fungi. They represent an irreplaceable archive, particularly for the province of Salzburg. The oldest archived flowering plants were pressed over 400 years ago.
-      background: assets/images/Herbarium (2)_quer_Luigi_Caputo.jpg
+      background: assets/images/main_page/Herbarium (2)_quer_Luigi_Caputo.jpg
       href: en/Herbarium_SZB
 
     - title: Vertebrate collection
       description: The vertebrate collection at Haus der Natur contains around 16,000 specimens, mainly birds and mammals, but also amphibians, reptiles and fish. The vertebrate collection comprises dermoplasts, skins, alcohol-preserved specimens, skeletons, bird feathers, trophies, furs and a collection of eggs from both living and extinct species. In addition to providing scientific documentation of Salzburg, the dermoplasts in particular are also used for exhibition and educational purposes within the museum.
-      background: assets/images/HNS-Aves-B-0340_01.jpg
+      background: assets/images/main_page/HNS-Aves-B-0340_01.jpg
       href: /occurrence/search?datasetKey=c1492854-5d15-40e9-9ee7-24a18ac05112&basisOfRecord=PRESERVED_SPECIMEN&view=dashboard&layout=W1t7ImlkIjoidjVpamUiLCJwIjp7ImgiOjQ5M30sInRyYW5zbGF0aW9uIjoic2VhcmNoLnRhYnMubWFwIiwiciI6dHJ1ZSwidCI6Im1hcCJ9LHsiaWQiOiJ1MTNiOCIsInAiOnsidmlldyI6IlRBQkxFIn0sInRyYW5zbGF0aW9uIjoiZGFzaGJvYXJkLnRheGEiLCJ0IjoidGF4YSJ9XSxbeyJpZCI6ImpmbTVkIiwicCI6eyJoIjo0OTN9LCJ0cmFuc2xhdGlvbiI6InNlYXJjaC50YWJzLmdhbGxlcnkiLCJyIjp0cnVlLCJ0IjoiZ2FsbGVyeSJ9LHsiaWQiOiI1NTAwNyIsInAiOnt9LCJ0IjoieWVhciJ9XV0%3D&taxonKey=44
 
     - title: Literature data
       description: Distribution data from published and secondary literature are continuously imported into the biodiversity database. These include scientific research papers, as well as project reports and data from nature conservation expert reports. The aim is to ensure that this data remains available in the long term.
-      background: assets/images/Bibliothek.jpg
+      background: assets/images/main_page/Bibliothek.jpg
       href: /occurrence/search?datasetKey=c1492854-5d15-40e9-9ee7-24a18ac05112&basisOfRecord=MATERIAL_CITATION&view=dashboard&layout=W1t7ImlkIjoidjVpamUiLCJwIjp7ImgiOjQ5M30sInRyYW5zbGF0aW9uIjoic2VhcmNoLnRhYnMubWFwIiwiciI6dHJ1ZSwidCI6Im1hcCJ9LHsiaWQiOiJ1MTNiOCIsInAiOnsidmlldyI6IlRBQkxFIn0sInRyYW5zbGF0aW9uIjoiZGFzaGJvYXJkLnRheGEiLCJ0IjoidGF4YSJ9XSxbeyJpZCI6IjU1MDA3IiwicCI6e30sInQiOiJ5ZWFyIn1dXQ%3D%3D
 
     - title: Citizen Science & Mapping
       description: The biodiversity database also includes nature observations. These come primarily from citizen scientists and members of the [volunteer working groups](https://www.hausdernatur.at/de/arbeitsgruppen.html){:target="_blank"} at Haus der Natur. The observations are checked, validated and curated by our curators and volunteer experts. Using the [Observation.org smartphone apps](https://observation.org/apps/obsidentify/){:target="_blank"}, anyone can easily take part in the research themselves.
-      background: assets/images/Observation_Edelweiss.jpg
+      background: assets/images/main_page/Observation_Edelweiss.jpg
       href: /occurrence/search?datasetKey=c1492854-5d15-40e9-9ee7-24a18ac05112&basisOfRecord=HUMAN_OBSERVATION&view=dashboard&layout=W1t7ImlkIjoidjVpamUiLCJwIjp7ImgiOjQ5M30sInRyYW5zbGF0aW9uIjoic2VhcmNoLnRhYnMubWFwIiwiciI6dHJ1ZSwidCI6Im1hcCJ9LHsiaWQiOiJ1MTNiOCIsInAiOnsidmlldyI6IlRBQkxFIn0sInRyYW5zbGF0aW9uIjoiZGFzaGJvYXJkLnRheGEiLCJ0IjoidGF4YSJ9XSxbeyJpZCI6IjU1MDA3IiwicCI6e30sInQiOiJ5ZWFyIn1dXQ%3D%3D
 
 
