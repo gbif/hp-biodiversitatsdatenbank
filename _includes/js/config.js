@@ -75,12 +75,12 @@ var siteConfig = {
       "mapTileLocale": "de"
     },
     {
-      "code": "da",
-      "localeCode": "da",
-      "label": "Dansk",
+      "code": "en",
+      "localeCode": "en",
+      "label": "English",
       "default": false,
       "textDirection": "ltr",
-      "iso3LetterCode": "dan",
+      "iso3LetterCode": "eng",
       "cmsLocale": "en-GB",
       "gbifOrgLocalePrefix": "",
       "mapTileLocale": "en"
