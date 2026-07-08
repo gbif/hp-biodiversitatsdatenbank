@@ -3,7 +3,7 @@ layout: compose
 lang: de
 langref: Herbarium
 title: Herbarium SZB am Haus der Natur
-background: assets/images/Herbarium.jpg
+background: assets/images/Herbarium/Herbarium.jpg
 imagelicense: © Luigi Caputo
 overlayColor: transparent
 height: 50vh
