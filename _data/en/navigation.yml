@@ -29,9 +29,9 @@
 - text: Links
   menu:
   - text: Events
-    href: https://www.hausdernatur.at/en/events.html
+    href: https://www.hausdernatur.at/en/events.html "target='_blank'"
   - text: Participate
-    href: https://www.hausdernatur.at/de/observation-org.html
+    href: https://www.hausdernatur.at/de/observation-org.html "target='_blank'"
   - text: Data inquiries
     href: en/Datenanfragen
 
