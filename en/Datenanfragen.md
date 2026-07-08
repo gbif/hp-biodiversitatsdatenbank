@@ -15,6 +15,9 @@ composition:
   <p>
     The data from the biodiversity database displayed on GBIF is subject to the CC-BY-NC licence. 
     It can be accessed freely for non-commercial purposes, with reference to the source (Haus der Natur Salzburg).
+  </p>
+
+   <p>
     For commercial use an official data request can be submitted to the Haus der Natur using the
     <a href="https://www.hausdernatur.at/files/media_hdn/downloads/biodiversitaetsdatenbank/Haus_der_Natur_Biodiversitaetsdaten_Anfrageformular2020.pdf" target="_blank">
     form</a>.
