@@ -13,6 +13,8 @@ composition:
 <div style="max-width: 800px; font-size: 20px; line-height: 1.6; text-align: justify">
 
   <p>
+    Die auf GBIF dargestellten Daten aus der Biodiversitätsdatenbank unterliegen der Lizenz CC-BY-NC. 
+    Sie dürfen für nicht-kommerzielle Zwecke unter Angabe der Quelle (Haus der Natur Salzburg) frei genutzt werden.
     Für kommerzielle Verwendungen (Eingriffsplanungen etc.) kann über das
     <a href="https://www.hausdernatur.at/files/media_hdn/downloads/biodiversitaetsdatenbank/Haus_der_Natur_Biodiversitaetsdaten_Anfrageformular2020.pdf" target="_blank">
     Formular</a>
