@@ -49,32 +49,32 @@ features:
   features:
     - title: Entomologische Sammlung
       description: In der entomologischen Sammlung werden geschätzte 500.000 Insektenbelege aufbewahrt, die zu einem großen Teil im Bundesland Salzburg gesammelt wurden. Sie sind ein Archiv, dessen naturschutzfachlicher und wissenschaftlicher Wert unermesslich ist. Erkunde unsere Sammlung hier!
-      background: assets/images/20221201_Carabus_splendens_HNS-Coleopt-3375.jpg
+      background: assets/images/main_page/20221201_Carabus_splendens_HNS-Coleopt-3375.jpg
       href: /occurrence/search?datasetKey=c1492854-5d15-40e9-9ee7-24a18ac05112&basisOfRecord=PRESERVED_SPECIMEN&taxonKey=216&view=dashboard&layout=W1t7ImlkIjoidjVpamUiLCJwIjp7ImgiOjQ5M30sInRyYW5zbGF0aW9uIjoic2VhcmNoLnRhYnMubWFwIiwiciI6dHJ1ZSwidCI6Im1hcCJ9LHsiaWQiOiJ1MTNiOCIsInAiOnsidmlldyI6IlRBQkxFIn0sInRyYW5zbGF0aW9uIjoiZGFzaGJvYXJkLnRheGEiLCJ0IjoidGF4YSJ9XSxbeyJpZCI6ImpmbTVkIiwicCI6eyJoIjo0OTN9LCJ0cmFuc2xhdGlvbiI6InNlYXJjaC50YWJzLmdhbGxlcnkiLCJyIjp0cnVlLCJ0IjoiZ2FsbGVyeSJ9LHsiaWQiOiI1NTAwNyIsInAiOnt9LCJ0IjoieWVhciJ9XV0%3D
   
     - title: Molluskensammlung
       description: In der malakologischen Sammlung werden etwa 55.000 Belegserien von Schnecken und Muscheln aus aller Welt aufbewahrt. Der Schwerpunkt der Sammlung liegt in Österreich und dem Bundesland Salzburg. Nähere Informationen finden sich auf der Seite der [Malakologischen Arbeitsgemeinschaft](https://www.hausdernatur.at/de/malakologie.html){:target="_blank"}.
-      background: assets/images/HNS-Malak-M_Sp05130_b.jpg
+      background: assets/images/main_page/HNS-Malak-M_Sp05130_b.jpg
       href: /occurrence/search?datasetKey=c1492854-5d15-40e9-9ee7-24a18ac05112&taxonKey=52&basisOfRecord=PRESERVED_SPECIMEN&view=dashboard&layout=W1t7ImlkIjoidjVpamUiLCJwIjp7ImgiOjQ5M30sInRyYW5zbGF0aW9uIjoic2VhcmNoLnRhYnMubWFwIiwiciI6dHJ1ZSwidCI6Im1hcCJ9LHsiaWQiOiJ1MTNiOCIsInAiOnsidmlldyI6IlRBQkxFIn0sInRyYW5zbGF0aW9uIjoiZGFzaGJvYXJkLnRheGEiLCJ0IjoidGF4YSJ9XSxbeyJpZCI6ImpmbTVkIiwicCI6eyJoIjo0OTN9LCJ0cmFuc2xhdGlvbiI6InNlYXJjaC50YWJzLmdhbGxlcnkiLCJyIjp0cnVlLCJ0IjoiZ2FsbGVyeSJ9LHsiaWQiOiI1NTAwNyIsInAiOnt9LCJ0IjoieWVhciJ9XV0%3D
 
     - title: Herbarium SZB
       description: In den botanischen Sammlungen (Herbarium SZB) werden über 200.000 Belege von getrockneten Pflanzen, Pilzen und Flechten aufbewahrt. Sie sind ein unersetzbares Archiv, insbesondere des Bundeslandes Salzburg. Die ältesten archivierten Blütenpflanzen wurden vor über 400 Jahren gepresst.
-      background: assets/images/Herbarium (2)_quer_Luigi_Caputo.jpg
+      background: assets/images/main_page/Herbarium (2)_quer_Luigi_Caputo.jpg
       href: de/Herbarium_SZB
 
     - title: Wirbeltiersammlung
       description: In der Wirbeltiersammlung am Haus der Natur befinden sich etwa 16.000 Objekte, vor allem Vögel und Säugetiere aber auch Amphibien, Reptilien und Fische. Die Wirbeltiersammlung umfasst Dermoplastiken, Bälge, Alkoholpräparate, Skelette, Federblätter, Trophäen, Felle und eine Eiersammlung von rezenten sowie ausgestorbenen Arten. Neben der wissenschaftlichen Dokumentation Salzburgs dienen vor allem die Dermoplastiken auch Ausstellungs- und Lehrzwecken im Museum.
-      background: assets/images/HNS-Aves-B-0340_01.jpg
+      background: assets/images/main_page/HNS-Aves-B-0340_01.jpg
       href: /occurrence/search?datasetKey=c1492854-5d15-40e9-9ee7-24a18ac05112&basisOfRecord=PRESERVED_SPECIMEN&view=dashboard&layout=W1t7ImlkIjoidjVpamUiLCJwIjp7ImgiOjQ5M30sInRyYW5zbGF0aW9uIjoic2VhcmNoLnRhYnMubWFwIiwiciI6dHJ1ZSwidCI6Im1hcCJ9LHsiaWQiOiJ1MTNiOCIsInAiOnsidmlldyI6IlRBQkxFIn0sInRyYW5zbGF0aW9uIjoiZGFzaGJvYXJkLnRheGEiLCJ0IjoidGF4YSJ9XSxbeyJpZCI6ImpmbTVkIiwicCI6eyJoIjo0OTN9LCJ0cmFuc2xhdGlvbiI6InNlYXJjaC50YWJzLmdhbGxlcnkiLCJyIjp0cnVlLCJ0IjoiZ2FsbGVyeSJ9LHsiaWQiOiI1NTAwNyIsInAiOnt9LCJ0IjoieWVhciJ9XV0%3D&taxonKey=44
 
     - title: Literaturdaten
       description: Es werden laufend Verbreitungsdaten aus publizierter und grauer Literatur in die Biodiversitätsdatenbank importiert. Es handelt sich dabei um wissenschaftliche Forschungsarbeiten, aber auch um Projektberichte und Daten aus naturschutzfachlichen Gutachten. Ziel ist es diese aufwendig erhobenen Daten nachhaltig verfügbar zu machen.
-      background: assets/images/Bibliothek.jpg
+      background: assets/images/main_page/Bibliothek.jpg
       href: /occurrence/search?datasetKey=c1492854-5d15-40e9-9ee7-24a18ac05112&basisOfRecord=MATERIAL_CITATION&view=dashboard&layout=W1t7ImlkIjoidjVpamUiLCJwIjp7ImgiOjQ5M30sInRyYW5zbGF0aW9uIjoic2VhcmNoLnRhYnMubWFwIiwiciI6dHJ1ZSwidCI6Im1hcCJ9LHsiaWQiOiJ1MTNiOCIsInAiOnsidmlldyI6IlRBQkxFIn0sInRyYW5zbGF0aW9uIjoiZGFzaGJvYXJkLnRheGEiLCJ0IjoidGF4YSJ9XSxbeyJpZCI6IjU1MDA3IiwicCI6e30sInQiOiJ5ZWFyIn1dXQ%3D%3D
 
     - title: Citizen Science & Kartierung
       description: In der Biodiversitätsdatenbank werden auch Naturbeobachtungen erfasst. Diese stammen vor allem von Bürgerforscher:innen und den Mitgliedern der [ehrenamtlichen Arbeitsgemeinschaften](https://www.hausdernatur.at/de/arbeitsgruppen.html){:target="_blank"} am Haus der Natur. Die Beobachtungen werden von unseren Kurator:innen und ehrenamtlichen Expert:innen geprüft, validiert und kuratiert. Mit den [Smartphone-Apps von Observation.org](https://at.observation.org/apps/obsidentify/){:target="_blank"} kann jede/r einfach selbst mitforschen.
-      background: assets/images/Observation_Edelweiss.jpg
+      background: assets/images/main_page/Observation_Edelweiss.jpg
       href: /occurrence/search?datasetKey=c1492854-5d15-40e9-9ee7-24a18ac05112&basisOfRecord=HUMAN_OBSERVATION&view=dashboard&layout=W1t7ImlkIjoidjVpamUiLCJwIjp7ImgiOjQ5M30sInRyYW5zbGF0aW9uIjoic2VhcmNoLnRhYnMubWFwIiwiciI6dHJ1ZSwidCI6Im1hcCJ9LHsiaWQiOiJ1MTNiOCIsInAiOnsidmlldyI6IlRBQkxFIn0sInRyYW5zbGF0aW9uIjoiZGFzaGJvYXJkLnRheGEiLCJ0IjoidGF4YSJ9XSxbeyJpZCI6IjU1MDA3IiwicCI6e30sInQiOiJ5ZWFyIn1dXQ%3D%3D
 
 
