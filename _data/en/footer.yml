@@ -36,7 +36,7 @@ columns:
       
   - name: Contact
     description: |
-      <a href="https://www.hausdernatur.at/" target="_blank">
+      <a href="https://www.hausdernatur.at/en" target="_blank">
         <img src="/assets/logos/HdN-Logo-rgb.png" alt="Haus der Natur" style="width:70%;">
       </a>
       
