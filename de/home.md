@@ -2,7 +2,7 @@
 lang-ref: home
 lang: de
 layout: home
-title: Biodiversitätsdatenbank Salzburg
+title: "<img src='/assets/images/logo.png'> Biodiversitätsdatenbank Salzburg"
 description: "Entdecken Sie hier Salzburgs Artenvielfalt!"
 background: /assets/images/Lepidopterologie(4).jpg
 imageLicense: Haus der Natur, L. Caputo
