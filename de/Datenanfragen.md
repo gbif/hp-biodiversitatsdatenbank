@@ -1,7 +1,7 @@
 ---
 layout: compose
 title: Datenanfragen Biodiversitätsdatenbank
-background: assets/images/GBIF_DataView.png
+background: assets/images/Datenanfragen/GBIF_DataView.png
 imagelicense: "© Haus der Natur"
 overlayColor: transparent
 height: 50vh
