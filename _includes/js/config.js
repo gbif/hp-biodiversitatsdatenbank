@@ -82,7 +82,7 @@ var siteConfig = {
       "textDirection": "ltr",
       "iso3LetterCode": "eng",
       "cmsLocale": "en-GB",
-      "gbifOrgLocalePrefix": "",
+      "gbifOrgLocalePrefix": "en",
       "mapTileLocale": "en"
     }
   ],
