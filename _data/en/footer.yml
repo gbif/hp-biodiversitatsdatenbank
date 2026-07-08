@@ -56,7 +56,7 @@ columns:
   - name: Data use
     description: |
       The data from the biodiversity database displayed on GBIF is subject to the CC-BY-NC licence. It may be used freely for non-commercial purposes, with reference to the source (Haus der Natur Salzburg). 
-      Further information can be found under [data inquiries](en/Datenanfragen).
+      Further information can be found under [data inquiries](/en/Datenanfragen).
 
     
   # EXAMPLE - just leave this commented out at the bottom of the file for future reference
