@@ -56,7 +56,7 @@ columns:
   - name: Datennutzung
     description: |
       Die auf GBIF dargestellten Daten aus der Biodiversitätsdatenbank unterliegen der Lizenz CC-BY-NC. Sie dürfen für nicht-kommerzielle Zwecke unter Angabe der Quelle (Haus der Natur Salzburg) frei genutzt werden. 
-      Weitere Informationen finden Sie unter <a href="{{ '/de/Datenanfragen/' | relative_url }}">Datenanfragen</a>.
+      Weitere Informationen finden Sie unter [Datenanfragen](/de/Datenanfragen).
 
     
   # EXAMPLE - just leave this commented out at the bottom of the file for future reference
