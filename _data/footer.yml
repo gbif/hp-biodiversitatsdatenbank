@@ -51,7 +51,7 @@ columns:
     
   - name: Code
     description: |
-      Der [Code](https://github.com/gbif/hp-biodiversitatsdatenbank/tree/master) dieser Website ist frei verfügbar und unterliegt der Apache-2.0-Lizenz.
+      Der [Code](https://github.com/gbif/hp-biodiversitatsdatenbank/tree/master){:target="_blank"} dieser Website ist frei verfügbar und unterliegt der Apache-2.0-Lizenz.
 
   - name: Datennutzung
     description: |
