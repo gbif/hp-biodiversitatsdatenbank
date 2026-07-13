@@ -26,7 +26,8 @@ composition:
     not mapped on GBIF.
     The locations of selected species (e.g. those that are particularly sensitive to disturbance) are
     only provided to GBIF with a coordinate precision of approximately 1 km.
-    More metadata and precisely located records can be provided via the official database query.
+    More metadata and precisely located records can be provided via the official <a href="https://www.hausdernatur.at/files/media_hdn/downloads/biodiversitaetsdatenbank/Haus_der_Natur_Biodiversitaetsdaten_Anfrageformular2020.pdf" target="_blank">
+    database query</a>.
   </p>
 
   <p>
