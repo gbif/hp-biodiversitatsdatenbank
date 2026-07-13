@@ -9,13 +9,13 @@ stats:
       href: "/occurrence/search?view=map"
         
     - title: <span data-ajax-url="https://api.gbif.org/v1/occurrence/search?limit=0&publishingOrg=7a070ba0-bafb-11d9-8e53-b8a03c50a862&basisOfRecord=PRESERVED_SPECIMEN"></span>
-      description: "Preserved Specimen"
+      description: "Preserved Specimens"
       background:  assets/vectors/ChatGPT_Belege.png
       #imageLicense: "{{ site.data.images.collections.caption }}"
       href: "/occurrence/search?view=map&basisOfRecord=PRESERVED_SPECIMEN"
 
     - title: <span data-ajax-url="https://api.gbif.org/v1/occurrence/search?limit=0&publishingOrg=7a070ba0-bafb-11d9-8e53-b8a03c50a862&mediatype=still image"></span>
-      description: "Digitised specimen"
+      description: "Digitised specimens"
       background: assets/vectors/ChatGPT_Digitalisate.png
       #imageLicense: "{{ site.data.images.collections.caption }}"
       href: "/occurrence/search?view=gallery&mediaType=StillImage"
