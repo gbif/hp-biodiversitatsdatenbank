@@ -4,10 +4,10 @@ de:
   label: Deutsch
   icon: assets/vectors/ChatGPT_deutsch.png
   archive_permalink: /post/
-# en:
-#  label: English
-#  icon: assets/vectors/ChatGPT_Englisch.png
-#  archive_permalink: /en/post/
+ en:
+  label: English
+  icon: assets/vectors/ChatGPT_Englisch.png
+  archive_permalink: /en/post/
 da:
   label: Dansk
   archive_permalink: /da/post/
