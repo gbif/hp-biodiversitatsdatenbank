@@ -27,7 +27,8 @@ composition:
     jedoch nicht abgebildet werden können.
     Fundorte ausgewählter (z.B. besonders störungsempfindlicher) Arten werden
     darüber hinaus nur mit grober Unschärfe (ca. 1 km) nach GBIF geliefert.
-    Über eine offizielle Datenbankabfrage können mehr Metadaten und genauere
+    Über eine offizielle <a href="https://www.hausdernatur.at/files/media_hdn/downloads/biodiversitaetsdatenbank/Haus_der_Natur_Biodiversitaetsdaten_Anfrageformular2020.pdf" target="_blank">
+    Datenbankabfrage</a> können mehr Metadaten und genauere
     Fundpunkte bereitgestellt werden.
   </p>
 
