@@ -111,10 +111,10 @@ defaults:
 
 
 #Englische Unterseite
-  - scope:
-      path: "en/" # For anything in the "en" folder the default is to set the lang frontMatter property to "en" . this should be deleted or adapted to your site if you support other languages
-    values:
-      lang: en
+#  - scope:
+#      path: "en/" # For anything in the "en" folder the default is to set the lang frontMatter property to "en" . this should be deleted or adapted to your site if you support other languages
+#    values:
+#      lang: en
   #- scope:
   #    path: "_posts/en" # our subfolder in posts for english translation of news items
   # values:
