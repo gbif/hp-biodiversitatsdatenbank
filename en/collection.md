@@ -1,6 +1,7 @@
 ---
 title: Collection search
 description: We publish open data
-permalink: /collection/search
+permalink: /en/collection/search
 layout: collection-search
+lang: en
 ---

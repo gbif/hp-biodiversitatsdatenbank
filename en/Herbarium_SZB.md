@@ -1,7 +1,7 @@
 ---
 layout: compose
 lang: en
-langref: Herbarium
+lang-ref: Herbarium
 title: Herbarium SZB at Haus der Natur
 background: assets/images/Herbarium/Herbarium.jpg
 imagelicense: © Luigi Caputo
@@ -14,28 +14,26 @@ composition:
     data: en.Herbarium_SZB.dashboardSZB
   - type: heroImage
     data: en.Herbarium_SZB.Welt
-
+permalink: /en/Herbarium_SZB
 ---
 
 
 <div style="max-width: 800px; font-size: 20px; line-height: 1.6;text-align: justify">
 
   <p>
-    The botanical collections include over 200,000 specimens of dried plants and fungi. 
-    They represent an irreplaceable archive, particularly for the province of Salzburg. The oldest archived flowering plants were pressed over 400 years ago. – 
+    The botanical collections include over 200,000 specimens of dried plants and fungi.
+    They represent an irreplaceable archive, particularly for the province of Salzburg. The oldest archived flowering plants were pressed over 400 years ago. –
     the dried specimens of wood anemone, arum, and asarabacca remain practically unchanged to this day.
   </p>
 
   <p>
-    The herbarium encompasses the collections of all the province’s leading botanists and thus provides reference material about the flora of the province and for scientific publications. Today the majority of        ferns and flowering plants, mosses, lichens, and mushrooms are well-prepared and stored under constant conditions. 
+    The herbarium encompasses the collections of all the province’s leading botanists and thus provides reference material about the flora of the province and for scientific publications. Today the majority of        ferns and flowering plants, mosses, lichens, and mushrooms are well-prepared and stored under constant conditions.
     For most of the approximately 6,000 fungi in the collection photographs, as well as detailed descriptions and drawings of their microscopic characteristics have been recorded.
     In addition, a significant portion of the specimen collection is now included in a digital database.
-    <br><br>   
+    <br><br>
   </p>
   
-
 </div>
-
 
 <div style="display: flex; gap: 10px;">
   <img src="/assets/images/Herbarium/SZB-MB-00162_clip.jpg" alt="Cypripedium calceolus" style="width: 33%;">
@@ -52,4 +50,3 @@ composition:
 </div>
 
 ---
-

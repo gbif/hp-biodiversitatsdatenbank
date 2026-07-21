@@ -8,12 +8,14 @@ height: 50vh
 composition:
   - type: heroImage
   - type: pageMarkdown
+lang: de
+permalink: /en/Datenanfragen
 ---
 
 <div style="max-width: 800px; font-size: 20px; line-height: 1.6; text-align: justify">
 
   <p>
-    The data from the biodiversity database displayed on GBIF is subject to the CC-BY-NC licence. 
+    The data from the biodiversity database displayed on GBIF is subject to the CC-BY-NC licence.
     It can be accessed freely for non-commercial purposes, with reference to the source (Haus der Natur Salzburg).
   </p>
 

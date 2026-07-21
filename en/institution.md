@@ -1,6 +1,7 @@
 ---
 title: Institutions
 description: We publish open data
-permalink: /institution/search
+permalink: /en/institution/search
 layout: institution-search
+lang: en
 ---
