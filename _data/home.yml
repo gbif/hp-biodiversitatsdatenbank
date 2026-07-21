@@ -60,7 +60,7 @@ features:
     - title: Herbarium SZB
       description: In den botanischen Sammlungen (Herbarium SZB) werden über 200.000 Belege von getrockneten Pflanzen, Pilzen und Flechten aufbewahrt. Sie sind ein unersetzbares Archiv, insbesondere des Bundeslandes Salzburg. Die ältesten archivierten Blütenpflanzen wurden vor über 400 Jahren gepresst.
       background: assets/images/main_page/Herbarium (2)_quer_Luigi_Caputo.jpg
-      href: de/Herbarium_SZB
+      href: /Herbarium_SZB
 
     - title: Wirbeltiersammlung
       description: In der Wirbeltiersammlung am Haus der Natur befinden sich etwa 16.000 Objekte, vor allem Vögel und Säugetiere aber auch Amphibien, Reptilien und Fische. Die Wirbeltiersammlung umfasst Dermoplastiken, Bälge, Alkoholpräparate, Skelette, Federblätter, Trophäen, Felle und eine Eiersammlung von rezenten sowie ausgestorbenen Arten. Neben der wissenschaftlichen Dokumentation Salzburgs dienen vor allem die Dermoplastiken auch Ausstellungs- und Lehrzwecken im Museum.
