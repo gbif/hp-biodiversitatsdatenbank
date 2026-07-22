@@ -8,7 +8,8 @@ height: 50vh
 composition:
   - type: heroImage
   - type: pageMarkdown
-lang: de
+lang: en
+lang-ref: Datenanfragen
 permalink: /en/Datenanfragen
 ---
 

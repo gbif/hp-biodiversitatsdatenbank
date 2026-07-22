@@ -9,6 +9,7 @@ composition:
   - type: heroImage
   - type: pageMarkdown
 lang: de
+lang-ref: Datenanfragen
 permalink: /Datenanfragen
 ---
 
