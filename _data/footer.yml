@@ -50,16 +50,15 @@ columns:
       Österreich<br>
 
       [hausdernatur.at](https://www.hausdernatur.at/de/){:target="_blank"}<br>
-      Kurator der Biodiversitätsdatenbank: [Peter Kaufmann](mailto:Peter.Kaufmann@hausdernatur.at){:target="_blank"}<br>
-      Technischer Kontakt für das Hosted Portal: [Torben Schubert](mailto:Torben.Schubert@hausdernatur.at){:target="_blank"}
-
-      
     connectIcons: true # Show social icons (defined in _config.yml)
 
     
   - name: Code
     description: |
-      Der [Code](https://github.com/gbif/hp-biodiversitatsdatenbank/tree/master){:target="_blank"} dieser Website ist frei verfügbar und unterliegt der Apache-2.0-Lizenz.
+      Der [Code](https://github.com/gbif/hp-biodiversitatsdatenbank/tree/master){:target="_blank"} dieser Website ist frei verfügbar und unterliegt der Apache-2.0-Lizenz.<br>
+      <br>
+      Sammlungsleiter: Peter Kaufmann <br>
+      Technischer Kontakt: Torben Schubert
 
   - name: Datennutzung
     description: |
