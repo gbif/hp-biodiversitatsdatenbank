@@ -56,6 +56,9 @@ columns:
   - name: Code
     description: |
       The [Code](https://github.com/gbif/hp-biodiversitatsdatenbank/tree/master){:target="_blank"} for this website is freely available and is subject to the Apache 2.0 licence.
+      <br>
+      Coll. Manager: Peter Kaufmann <br>
+      Techn. Contact: Torben Schubert
 
   - name: Data use
     description: |
