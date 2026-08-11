@@ -21,10 +21,10 @@ permalink: /Datenanfragen
   </p>
 
   <p>
-    Für kommerzielle Verwendungen (Eingriffsplanungen etc.) kann über das
-    <a href="https://www.hausdernatur.at/files/media_hdn/downloads/biodiversitaetsdatenbank/Haus_der_Natur_Biodiversitaetsdaten_Anfrageformular2020.pdf" target="_blank">
-    Formular</a>
-    eine offizielle Datenbankanfrage an das Haus der Natur gestellt werden.
+    Die Abfrage von Daten für bezahlte Auftragsarbeiten (Umweltverträglichkeitsprüfungen, Eingriffsplanungen, private Projekte etc.) ist davon nicht abgedeckt. Nutzen Sie für kommerzielle Projekte dieses 
+    <a href="https://www.hausdernatur.at/files/media_hdn/downloads/biodiversitaetsdatenbank/Haus_der_Natur_Biodiversitaetsdaten_Anfrageformular2020.pdf" target="_blank"> Formular</a> 
+    um eine offizielle Datenbankanfrage an das Haus der Natur zu stellen.
+
     Zu vielen Daten liegen weitere Metadaten (bspw. Bruthinweise) vor,
     die für naturschutzfachliche Bewertungen notwendig sind, auf GBIF derzeit
     jedoch nicht abgebildet werden können.
