@@ -98,7 +98,6 @@ var siteConfig = {
     availableTableColumns: ['features', 'commonName', 'verbatimScientificName', 'basisOfRecord', 'catalogNumber', 'fieldNumber', 'country', 'higherGeography', 'locality', 'coordinates', 'eventDate', 'year', 'recordedBy', 'iucnRedListCategory', 'media', 'dataset', 'collectionCode', 'invidiualCount', 'preparations'], // verfuegbare Spalten
     defaultTableColumns: ['features', 'commonName', 'basisOfRecord', 'catalogNumber', 'country', 'higherGeography', 'locality', 'year', 'recordedBy', 'iucnRedListCategory'], // eingeblendete Spalten
     "highlightedFilters": [ // sichtbare Filter
-      "q",
       "commonName",
       "taxonKey",
       "basisOfRecord", 
@@ -110,6 +109,7 @@ var siteConfig = {
       "iucnRedListCategory"
     ],
     "excludedFilters": [
+      "q", // Volltextsuche
       "occurrenceStatus",
       "networkKey",
       "hostingOrganizationKey",
@@ -146,7 +146,6 @@ var siteConfig = {
   },
   "collectionSearch": {
     excludedFilters: ['country', 'active'],
-    // highlightedFilters: ['q', 'type', 'publishingOrg', 'license'],
     defaultTableColumns: ['features','basisOfRecord','catalogNumber','country','higherGeography','year','recordedBy','iucnRedListCategory'],
     scope: {
       // TODO: you should add a scope here if you need search to be limited to a subset
