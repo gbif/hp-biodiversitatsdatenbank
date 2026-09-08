@@ -13,8 +13,8 @@ dashboardSZB:
         - type: in
           key: taxonKey
           values:
-          -5
-          -6
+          - 5
+          - 6
     charts: [year, taxa]
     
 
